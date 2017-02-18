@@ -30,15 +30,17 @@ module.exports = {
 			.click(`${stickiedComment} .usertext`) // avoid clicking "hide child comments"
 			.assert.cssClassPresent(stickiedComment, selectedClass)
 
+			.pause(1000)
 			.click(loadMoreComments)
-			.waitForElementVisible(childComment1, 10000)
+			.waitForElementVisible(childComment1)
 			.assert.cssClassPresent(childComment1, selectedClass)
 
 			.click(childComment2)
 			.assert.cssClassPresent(childComment2, selectedClass)
 
+			.pause(1000)
 			.click(loadMoreChildrenOfSticky)
-			.waitForElementVisible(childOfStickiedComment2, 10000)
+			.waitForElementVisible(childOfStickiedComment2)
 			.assert.cssClassPresent(childOfStickiedComment1, selectedClass)
 
 			.click(childOfStickiedComment2)

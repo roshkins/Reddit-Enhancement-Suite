@@ -1,5 +1,4 @@
-@import '../vendor/guiders';
-@import '../vendor/tokenize';
+@import '../vendor/index';
 
 @import 'zindex';
 @import 'fonts/batch';
@@ -1421,10 +1420,6 @@ body.RESScrollLock {
 #autocomplete_dropdown {
 	display: inline-block;
 	z-index: $zindex-autocomplete-dropdown;
-}
-
-.thing .title.visited {
-	color: #551A8B;
 }
 
 .usertext iframe {

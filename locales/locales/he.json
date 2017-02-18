@@ -1,6 +1,6 @@
 {
     "commentNavigatorOpenOnHighlightUserDesc": {
-        "message": "Display Comment Navigator when a user is highlighted.",
+        "message": "הראה נווט תגובות כאשר שם משתמש מודגש",
         "description": ""
     },
     "betteRedditShowTimestampCommentsDesc": {
@@ -16,7 +16,7 @@
         "description": ""
     },
     "keyboardNavMoveDownCommentTitle": {
-        "message": "Move Down Comment",
+        "message": "רד תגובה אחת למטה",
         "description": ""
     },
     "dashboardMenuItemDesc": {
@@ -24,15 +24,15 @@
         "description": ""
     },
     "userInfoUserHasRedditGold": {
-        "message": "User has Reddit Gold",
+        "message": "למשתמש יש זהב רדיט",
         "description": ""
     },
     "keyboardNavMoveUpSiblingTitle": {
-        "message": "Move Up Sibling",
+        "message": "עלה אח אחד למעלה",
         "description": ""
     },
     "commentStyleCommentIndentTitle": {
-        "message": "Comment Indent",
+        "message": "שינון תגובה",
         "description": ""
     },
     "easterEggDesc": {
@@ -48,15 +48,15 @@
         "description": ""
     },
     "keyboardNavRandomTitle": {
-        "message": "Random",
+        "message": "אקראי",
         "description": ""
     },
     "messageMenuUrl": {
-        "message": "url",
+        "message": "כתובת קישור",
         "description": ""
     },
     "subredditInfoFilterThisSubredditFromAllAndDomain": {
-        "message": "Filter this subreddit from /r/all and /domain/*",
+        "message": "סנן תתרדיט זה מr/all ו/domain/*",
         "description": ""
     },
     "keyboardNavFollowCommentsNewTabTitle": {
@@ -64,7 +64,7 @@
         "description": ""
     },
     "subredditInfoUnsubscribe": {
-        "message": "unsubscribe",
+        "message": "בטל הרשמה",
         "description": ""
     },
     "orangeredName": {
@@ -76,35 +76,35 @@
         "description": ""
     },
     "filteRedditKeywordsTitle": {
-        "message": "Keywords",
+        "message": "מילות מפתח",
         "description": ""
     },
     "filteRedditAllowNSFWTitle": {
-        "message": "Allow NSFW",
+        "message": "אפשר תוכן מיני/פוגעני",
         "description": ""
     },
     "hoverOpenDelayTitle": {
-        "message": "Open Delay",
+        "message": "עיכוב פתיחה",
         "description": ""
     },
     "keyboardNavNextPageTitle": {
-        "message": "Next Page",
+        "message": "עמוד הבא",
         "description": ""
     },
     "commentToolsSuperKeyTitle": {
-        "message": "Super Key",
+        "message": "מקש סופר",
         "description": ""
     },
     "logoLinkCustomDestinationTitle": {
-        "message": "Custom Destination",
+        "message": "יעד מותאם אישית",
         "description": ""
     },
     "commentDepthCommentPermalinksContextTitle": {
-        "message": "Comment Permalinks Context",
+        "message": "הקשר קישורים קבועים בתגובות",
         "description": ""
     },
     "betteRedditRestoreSavedTabTitle": {
-        "message": "Restore Saved Tab",
+        "message": "שחזר כרטיסיות שמורות",
         "description": ""
     },
     "orangeredHideModMailDesc": {
@@ -124,11 +124,11 @@
         "description": ""
     },
     "userTaggerName": {
-        "message": "User Tagger",
+        "message": "מתייג משתמשים",
         "description": ""
     },
     "keyboardNavCommentNavigatorMoveDownTitle": {
-        "message": "Comment Navigator Move Down",
+        "message": "רד למטה נווט תגובות",
         "description": ""
     },
     "searchHelperToggleSearchOptionsDesc": {
@@ -136,7 +136,7 @@
         "description": ""
     },
     "keyboardNavCommentNavigatorMoveUpDesc": {
-        "message": "Move up using Comment Navigator.",
+        "message": "עלה למעלה באמצעות נווט תגובות",
         "description": ""
     },
     "accountSwitcherDropDownStyleDesc": {
@@ -144,19 +144,19 @@
         "description": ""
     },
     "commentToolsKeepMacroListOpenTitle": {
-        "message": "Keep Macro List Open",
+        "message": "השאר רשימת מאקרו פתוחה",
         "description": ""
     },
     "keyboardNavToggleCommentNavigatorTitle": {
-        "message": "Toggle Comment Navigator",
+        "message": "אפשר/כבה נווט תגובות",
         "description": ""
     },
     "commentToolsKeyboardShortcutsTitle": {
-        "message": "Keyboard Shortcuts",
+        "message": "קיצורי מקלדת",
         "description": ""
     },
     "keyboardNavFollowLinkNewTabDesc": {
-        "message": "Follow link in new tab (link pages only).",
+        "message": "עקוב אחר קישור בכרטיסייה חדשה (עמודי קישורים בלבד)",
         "description": ""
     },
     "voteEnhancementsUpvotes": {
@@ -168,23 +168,23 @@
         "description": ""
     },
     "filteRedditNSFWfilterTitle": {
-        "message": "NSFW Filter",
+        "message": "מסנן תוכן פוגעני/מיני",
         "description": ""
     },
     "hoverFadeDelayTitle": {
-        "message": "Fade Delay",
+        "message": "עיכוב דעיכה",
         "description": ""
     },
     "commentToolsLinkKeyTitle": {
-        "message": "Link Key",
+        "message": "מקש קישור",
         "description": ""
     },
     "commentToolsAddShortcut": {
-        "message": "+add shortcut",
+        "message": "+הוסף קיצור דרך",
         "description": ""
     },
     "keyboardNavsSubredditFrontPageTitle": {
-        "message": "Subreddit Front Page",
+        "message": "עמוד ראשי של תתרדיט",
         "description": ""
     },
     "keyboardNavFollowSubredditTitle": {
@@ -192,23 +192,23 @@
         "description": ""
     },
     "accountSwitcherShowGoldTitle": {
-        "message": "Show Gold",
+        "message": "הראה זהב",
         "description": ""
     },
     "stylesheetName": {
-        "message": "Stylesheet Loader",
+        "message": "טוען מסמכים",
         "description": ""
     },
     "subredditInfoOver18": {
-        "message": "Over 18:",
+        "message": "מעל גיל 18:",
         "description": ""
     },
     "userInfoIgnore": {
-        "message": "Ignore",
+        "message": "התעלם",
         "description": ""
     },
     "dashboardMenuItemTitle": {
-        "message": "Menu Item",
+        "message": "פריט תפריט",
         "description": ""
     },
     "nightModeSubredditStylesWhitelistTitle": {
@@ -216,11 +216,11 @@
         "description": ""
     },
     "troubleshooterAreYouPositive": {
-        "message": "Are you positive?",
+        "message": "האם הינך בטוח/ה?",
         "description": ""
     },
     "messageMenuAddShortcut": {
-        "message": "+add shortcut",
+        "message": "+הוסף קיצור דרך",
         "description": ""
     },
     "troubleshooterName": {
@@ -236,7 +236,7 @@
         "description": ""
     },
     "keyboardNavInboxNewTabTitle": {
-        "message": "Inbox New Tab",
+        "message": "כרטיסיית תיבת הדואר חדשה ",
         "description": ""
     },
     "keyboardNavFollowPermalinkNewTabDesc": {
@@ -248,15 +248,15 @@
         "description": ""
     },
     "onboardingName": {
-        "message": "RES Welcome Wagon",
+        "message": "ברוכים הבאים לRES",
         "description": ""
     },
     "subredditInfoStopFilteringFromAllAndDomain": {
-        "message": "Stop filtering from /r/all and /domain/*",
+        "message": "הפסק סינון מr/all ו/domain/*",
         "description": ""
     },
     "keyboardNavMoveDownThreadDesc": {
-        "message": "Move to the topmost comment of the next thread (in comments).",
+        "message": "עבור לתגובה העליונה של התרד הבא (בתגובות)",
         "description": ""
     },
     "hoverName": {
@@ -264,7 +264,7 @@
         "description": ""
     },
     "commentPreviewEnableForCommentsTitle": {
-        "message": "Enable For Comments",
+        "message": "אפשר לתגובות",
         "description": ""
     },
     "spamButtonDesc": {
@@ -276,7 +276,7 @@
         "description": ""
     },
     "commentToolsLabel": {
-        "message": "label",
+        "message": "תווית",
         "description": ""
     },
     "quickMessageDefaultSubjectDesc": {
@@ -284,11 +284,11 @@
         "description": ""
     },
     "newCommentCountMonitorPostsVisitedDesc": {
-        "message": "Monitor the number of comments on posts you have visited.",
+        "message": "Monitor the number of comments and edit dates of posts you have visited.",
         "description": ""
     },
     "orangeredDesc": {
-        "message": "Helping you get your daily dose of orangereds.",
+        "message": "עוזרים לך לקבל את הכמות היומית של הודעות חדשות",
         "description": ""
     },
     "nightModeNightModeOnTitle": {
@@ -304,7 +304,7 @@
         "description": ""
     },
     "yes": {
-        "message": "Yes",
+        "message": "כן",
         "description": ""
     },
     "filteRedditName": {
@@ -332,23 +332,27 @@
         "description": ""
     },
     "aboutOptionsSearchSettingsTitle": {
-        "message": "Search Settings",
+        "message": "הגדרות חיפוש",
         "description": ""
     },
     "betteRedditDoNoCtrlFTitle": {
-        "message": "Do No Ctrl+F",
+        "message": "אל תלחץ על Ctrl+F",
         "description": ""
     },
     "commentDepthSubreddit": {
-        "message": "subreddit",
+        "message": "תתרדיט",
         "description": ""
     },
     "betteRedditVideoViewedTitle": {
-        "message": "Video Viewed",
+        "message": "סרטון נצפה",
         "description": ""
     },
     "commentToolsHighlightIfAltAccountDesc": {
         "message": "Put in bold the \"Commenting As\" part if you are using an alt account. The first account in the Account Switcher module is considered as your main account.",
+        "description": ""
+    },
+    "penaltyBoxFeaturesOptionKey": {
+        "message": "optionKey",
         "description": ""
     },
     "commentToolsShowInputLengthDesc": {
@@ -364,7 +368,11 @@
         "description": ""
     },
     "subredditInfoTitle": {
-        "message": "Title:",
+        "message": "כותרת:",
+        "description": ""
+    },
+    "nightModeAutomaticNightModeAutomatic": {
+        "message": "אוטומטי (דורש שירותי מיקום)",
         "description": ""
     },
     "keyboardNavFollowLinkAndCommentsNewTabBGDesc": {
@@ -372,7 +380,7 @@
         "description": ""
     },
     "commentStyleCommentHoverBorderTitle": {
-        "message": "Comment Hover Border",
+        "message": "גבול רחיפה מעל תגובות",
         "description": ""
     },
     "nerHideDupesFade": {
@@ -384,7 +392,7 @@
         "description": ""
     },
     "keyboardNavNextPageDesc": {
-        "message": "Go to next page (link list pages only).",
+        "message": "היכנס לעמוד הבא (עמודים ברשימת קישורים בלבד)",
         "description": ""
     },
     "notificationsPerNotificationType": {
@@ -392,7 +400,7 @@
         "description": ""
     },
     "subredditTaggerDesc": {
-        "message": "Add custom text to the beginning of submission titles on your front page and /r/all. Useful for adding context to submissions.",
+        "message": "הוסף טקסט מותאם אישית להתחלת כותרות של בקשות בעמוד הראשי והעמוד הכללי. שימושי בכדי להוסיף הקשר לבקשות.",
         "description": ""
     },
     "profileNavigatorDesc": {
@@ -424,7 +432,11 @@
         "description": ""
     },
     "keyboardNavFollowLinkDesc": {
-        "message": "Follow link (link pages only).",
+        "message": "עקוב אחר קישור (עמודי קישורים בלבד)",
+        "description": ""
+    },
+    "penaltyBoxDelayFeaturesTitle": {
+        "message": "Delay Features",
         "description": ""
     },
     "commentHidePerDesc": {
@@ -440,11 +452,11 @@
         "description": ""
     },
     "styleTweaksCommandLineDescription": {
-        "message": "toggle subreddit style on/off (if no subreddit is specified, uses current subreddit).",
+        "message": "אפשר/כבה סגנון תתרדיט (אם לא מסופק תתרדיט, תקף על תתרדיט נוכחי)",
         "description": ""
     },
     "accountSwitcherUsername": {
-        "message": "username",
+        "message": "שם משתמש",
         "description": ""
     },
     "multiredditNavbarSectionLinksDesc": {
@@ -456,15 +468,15 @@
         "description": ""
     },
     "userbarHiderUserBarHidden": {
-        "message": "User Bar Hidden",
+        "message": "שורת המשתמש חבויה",
         "description": ""
     },
     "commentDepthAddSubreddit": {
-        "message": "+add subreddit",
+        "message": "+הוסף תתרדיט",
         "description": ""
     },
     "commentPreviewSwapBigEditorLayoutTitle": {
-        "message": "Swap Big Editor Layout",
+        "message": "שנה תצורת עורך גדול",
         "description": ""
     },
     "nerAutoLoadTitle": {
@@ -480,7 +492,7 @@
         "description": ""
     },
     "keyboardNavMoveDownParentSiblingDesc": {
-        "message": "Move to parent's next sibling (in comments).",
+        "message": "עבור לאח הבא של ההורה (בתגובות)",
         "description": ""
     },
     "orangeredUpdateOtherTabsDesc": {
@@ -488,11 +500,11 @@
         "description": ""
     },
     "betteRedditScoreHiddenTimeLeftTitle": {
-        "message": "Score Hidden Time Left",
+        "message": "זמן שנשאר לניקוד חבוי",
         "description": ""
     },
     "hoverWidthDesc": {
-        "message": "Default popup width.",
+        "message": "ברירת מחדל של רוחב הודעה קופצת",
         "description": ""
     },
     "nightModeNightModeOnDesc": {
@@ -504,7 +516,7 @@
         "description": ""
     },
     "filteRedditExcludeOwnPostsTitle": {
-        "message": "Exclude Own Posts",
+        "message": "אל תכליל את הפוסטים שלי",
         "description": ""
     },
     "keyboardNavCommentsLinkNumberPositionTitle": {
@@ -512,15 +524,19 @@
         "description": ""
     },
     "keyboardNavModmailNewTabDesc": {
-        "message": "Go to modmail in a new tab.",
+        "message": "פתח דואר דואר מודים בכרטיסייה חדשה",
         "description": ""
     },
     "keyboardNavModmailNewTabTitle": {
-        "message": "Modmail New Tab",
+        "message": "כרטיסיית דואר מודים חדשה",
         "description": ""
     },
     "newCommentCountShowSubscribeButtonDesc": {
         "message": "Show the Subscribe button?",
+        "description": ""
+    },
+    "toggleCommentsLeftEdgeHoverColorDesc": {
+        "message": "Color of the bar when hovered.",
         "description": ""
     },
     "backupAndRestoreBackupDesc": {
@@ -528,11 +544,15 @@
         "description": ""
     },
     "keyboardNavEnterFilterCommandLineTitle": {
-        "message": "Enter Filter Command Line",
+        "message": "הכנס פקודת סינון",
         "description": ""
     },
     "betteRedditDoNoCtrlFDesc": {
         "message": "When using the browser's Ctrl+F/Cmd+F \"find text\", only search comment/post text and not navigation links (\"permalink source save...\"). Disabled by default due to a slight performance impact.",
+        "description": ""
+    },
+    "hideCommentsOnHeaderDoubleClickTitle": {
+        "message": "Hide Comments On Header Double Click",
         "description": ""
     },
     "backupName": {
@@ -548,7 +568,7 @@
         "description": ""
     },
     "styleTweaksUseSubredditStyle": {
-        "message": "Use subreddit style",
+        "message": "השתמש בסגנון תתרדיט",
         "description": ""
     },
     "selectedEntryFocusBorderNightDesc": {
@@ -564,11 +584,15 @@
         "description": ""
     },
     "subredditInfoAddThisSubredditToDashboard": {
-        "message": "Add this subreddit to your dashboard",
+        "message": "הוסף תתרדיט ללוח המחוונים שלך",
+        "description": ""
+    },
+    "toggleCommentsLeftEdgeWidthTitle": {
+        "message": "Toggle Comments Left Edge Width",
         "description": ""
     },
     "accountSwitcherUpdateOtherTabsTitle": {
-        "message": "Update Other Tabs",
+        "message": "עדכן סימניות אחרות",
         "description": ""
     },
     "nightModeUseSubredditStylesTitle": {
@@ -588,7 +612,7 @@
         "description": ""
     },
     "messageMenuLinksDesc": {
-        "message": "Links to show in the mail icon drop down menu.",
+        "message": "קישורים יופיעו בתפריד היורד של תיבת הדואר",
         "description": ""
     },
     "extensionDescription": {
@@ -608,7 +632,7 @@
         "description": ""
     },
     "keyboardNavMoveUpSiblingDesc": {
-        "message": "Move to previous sibling (in comments) - skips to previous sibling at the same depth.",
+        "message": "עבור לאח הקודם (בתגובות) - קופץ לאח הקודם באותו העומק",
         "description": ""
     },
     "commentStyleCommentHoverBorderDesc": {
@@ -620,7 +644,7 @@
         "description": ""
     },
     "hoverWidthTitle": {
-        "message": "Width",
+        "message": "רוחב",
         "description": ""
     },
     "dashboardName": {
@@ -628,11 +652,11 @@
         "description": ""
     },
     "betteRedditShowLastEditedTimestampTitle": {
-        "message": "Show Last Edited Timestamp",
+        "message": "הראה תווית זמן של העריכה האחרונה",
         "description": ""
     },
     "accountSwitcherKeepLoggedInTitle": {
-        "message": "Keep Logged In",
+        "message": "הישאר מחובר",
         "description": ""
     },
     "xPostLinksDesc": {
@@ -644,7 +668,7 @@
         "description": ""
     },
     "styleTweaksClickToLearnMore": {
-        "message": "Click here to learn more",
+        "message": "לחץ כאן בכדי ללמוד עוד",
         "description": ""
     },
     "keyboardNavCommentsLinkNumberPositionDesc": {
@@ -652,7 +676,7 @@
         "description": ""
     },
     "keyboardNavInboxNewTabDesc": {
-        "message": "Go to inbox in a new tab.",
+        "message": "פתח תיבת דואר בכרטיסייה חדשה",
         "description": ""
     },
     "commentPreviewEnableForSubredditConfigDesc": {
@@ -676,7 +700,7 @@
         "description": ""
     },
     "commentPreviewDraftStyleTitle": {
-        "message": "Draft Style",
+        "message": "סגנון טיוטה",
         "description": ""
     },
     "betteRedditShowTimestampWikiDesc": {
@@ -684,7 +708,7 @@
         "description": ""
     },
     "logoLinkInbox": {
-        "message": "Inbox",
+        "message": "תיבת דואר",
         "description": ""
     },
     "searchHelperDesc": {
@@ -696,7 +720,7 @@
         "description": ""
     },
     "betteRedditShowTimestampPostsTitle": {
-        "message": "Show Timestamp Posts",
+        "message": "הראה תוויות זמן של פרסומים",
         "description": ""
     },
     "orangeredUnreadLinksToInboxTitle": {
@@ -708,27 +732,31 @@
         "description": ""
     },
     "styleTweaksName": {
-        "message": "Style Tweaks",
+        "message": "שינויי סגנון",
         "description": ""
     },
     "aboutOptionsAnnouncementsTitle": {
-        "message": "Announcements",
+        "message": "כרזות",
         "description": ""
     },
     "hoverInstancesDesc": {
-        "message": "Manage particular pop-ups",
+        "message": "נהל הודעות קופצות מסוימות",
+        "description": ""
+    },
+    "toggleCommentsLeftEdgeHoverColorTitle": {
+        "message": "Toggle Comments Left Edge Hover Color",
         "description": ""
     },
     "keyboardNavMoveUpCommentDesc": {
-        "message": "Move up to the previous comment on threaded comment pages.",
+        "message": "עלה לגובה הקודמת בעמודי תגובות מושחלים",
         "description": ""
     },
     "betteRedditShowTimestampSidebarTitle": {
-        "message": "Show Timestamp Sidebar",
+        "message": "הראה תוויות זמן של שורת צד",
         "description": ""
     },
     "messageMenuFadeSpeedTitle": {
-        "message": "Fade Speed",
+        "message": "קצב דעיכה",
         "description": ""
     },
     "betteRedditHideLinkFadeDelayDesc": {
@@ -736,7 +764,7 @@
         "description": ""
     },
     "accountSwitcherShowKarmaTitle": {
-        "message": "Show Karma",
+        "message": "הראה קארמה",
         "description": ""
     },
     "nightModeAutomaticNightModeTitle": {
@@ -755,12 +783,16 @@
         "message": "Fade animation's speed (in seconds). Default is 0.7.",
         "description": ""
     },
+    "filteRedditEmptyNotificationToggleShowReason": {
+        "message": "הראה/החבא סיבות סינון",
+        "description": ""
+    },
     "contextViewFullContextDesc": {
         "message": "Add a \"View the Full Context\" link when on a comment link.",
         "description": ""
     },
     "messageMenuFadeDelayTitle": {
-        "message": "Fade Delay",
+        "message": "עיכוב דעיכה",
         "description": ""
     },
     "commentToolsDesc": {
@@ -787,8 +819,12 @@
         "message": "Go to subreddit of selected link in a new tab (link pages only).",
         "description": ""
     },
+    "nightModeAutomaticNightModeDenied": {
+        "message": "גישה למיקומך נדחתה. גישה זו דרושה בכדי להפעיל \"מצב לילה\" בצורה אוטומטית. בכדי לכבות פעולה זאת, לחץ \"$1\"",
+        "description": ""
+    },
     "styleTweaksSubredditStyle": {
-        "message": "Subreddit Style",
+        "message": "סגנון תתרדיט",
         "description": ""
     },
     "keyboardNavDownVoteTitle": {
@@ -796,7 +832,11 @@
         "description": ""
     },
     "keyboardNavMoveDownTitle": {
-        "message": "Move Down",
+        "message": "רד למטה",
+        "description": ""
+    },
+    "penaltyBoxSuspendFeaturesTitle": {
+        "message": "Suspend Features",
         "description": ""
     },
     "notificationNotificationTypesTitle": {
@@ -812,15 +852,15 @@
         "description": ""
     },
     "subredditTaggerName": {
-        "message": "Subreddit Tagger",
+        "message": "מתייג תתרדיט",
         "description": ""
     },
     "commentToolsHighlightIfAltAccountTitle": {
-        "message": "Highlight If Alt Account",
+        "message": "הדגש אם זהו משתמש משני",
         "description": ""
     },
     "userInfoDesc": {
-        "message": "Adds a hover tooltip to users.",
+        "message": "הוסף הודעה מרחפת למשתמשים",
         "description": ""
     },
     "userTaggerUseCommentsLinkAsSourceDesc": {
@@ -852,11 +892,11 @@
         "description": ""
     },
     "subredditManagerMultiCountTitle": {
-        "message": "/r/$1 is in $2 multireddits",
+        "message": "r/$1 נמצא ב$2 מולטירדיטים",
         "description": ""
     },
     "commentToolsStrikeKeyTitle": {
-        "message": "Strike Key",
+        "message": "מקש חתוך",
         "description": ""
     },
     "multiredditNavbarHoverDelayDesc": {
@@ -864,7 +904,7 @@
         "description": ""
     },
     "commentNavigatorShowByDefaultDesc": {
-        "message": "Display Comment Navigator by default.",
+        "message": "הראה נווט תגובות גברירת מחדל.",
         "description": ""
     },
     "keyboardNavSaveRESTitle": {
@@ -876,7 +916,7 @@
         "description": ""
     },
     "commentStyleCommentBoxesTitle": {
-        "message": "Comment Boxes",
+        "message": "קופסאות תגובה",
         "description": ""
     },
     "profileNavigatorName": {
@@ -884,7 +924,7 @@
         "description": ""
     },
     "no": {
-        "message": "No",
+        "message": "לא",
         "description": ""
     },
     "notificationFadeOutLengthTitle": {
@@ -895,8 +935,12 @@
         "message": "Linear Scroll Style",
         "description": ""
     },
+    "onboardingUpgradeMessage": {
+        "message": "גרסת RES שודרגה לv$1",
+        "description": ""
+    },
     "keyboardNavShowParentsDesc": {
-        "message": "Display parent comments.",
+        "message": "הראה הורי תגובות",
         "description": ""
     },
     "aboutOptionsPresets": {
@@ -916,15 +960,15 @@
         "description": ""
     },
     "betteRedditPinHeaderTitle": {
-        "message": "Pin Header",
+        "message": "קבע ראש",
         "description": ""
     },
     "commentToolsMacroPlaceholdersTitle": {
-        "message": "Macro Placeholders",
+        "message": "מציין מיקום עבור מאקרו",
         "description": ""
     },
     "commentPreviewEnableForBanMessagesTitle": {
-        "message": "Enable For Ban Messages",
+        "message": "אפשר להודעות איסור",
         "description": ""
     },
     "orangeredOpenMailInNewTabTitle": {
@@ -944,11 +988,11 @@
         "description": ""
     },
     "keyboardNavFollowLinkTitle": {
-        "message": "Follow Link",
+        "message": "עקוב אחר קישור",
         "description": ""
     },
     "keyboardNavMoveBottomDesc": {
-        "message": "Move to bottom of list (on link pages).",
+        "message": "רד לתחתית הרשימה (בדפי קישורים)",
         "description": ""
     },
     "keyboardNavUpVoteWithoutTogglingDesc": {
@@ -960,15 +1004,15 @@
         "description": ""
     },
     "commentDepthCommentPermaLinksTitle": {
-        "message": "Comment Permalinks",
+        "message": "קישורים קבועים בתגובות",
         "description": ""
     },
     "aboutOptionsLicenseTitle": {
-        "message": "License",
+        "message": "רישיון",
         "description": ""
     },
     "logoLinkAll": {
-        "message": "/r/all",
+        "message": "עמוד כללי",
         "description": ""
     },
     "commentPreviewEnableForPostsDesc": {
@@ -980,7 +1024,7 @@
         "description": ""
     },
     "keyboardNavPrevPageDesc": {
-        "message": "Go to previous page (link list pages only).",
+        "message": "היכנס לעמוד הקודם (עמודים ברשימת קישורים בלבד)",
         "description": ""
     },
     "newCommentCountMonitorPostsVisitedTitle": {
@@ -992,11 +1036,11 @@
         "description": ""
     },
     "filteRedditExcludeCommentsPageTitle": {
-        "message": "Exclude Comments Page",
+        "message": "אל תכליל עמודי תגובות",
         "description": ""
     },
     "userInfoCommentKarma": {
-        "message": "Comment Karma:",
+        "message": "קארמת תגובות:",
         "description": ""
     },
     "settingsConsoleDesc": {
@@ -1004,15 +1048,15 @@
         "description": ""
     },
     "messageMenuLinksTitle": {
-        "message": "Links",
+        "message": "קישורים",
         "description": ""
     },
     "betteRedditCommentsLinksNewTabTitle": {
-        "message": "Comments Links New Tabs",
+        "message": "פתח קישורים בתגובות בכרטיסיות חדשות",
         "description": ""
     },
     "subredditInfoErrorLoadingSubredditInfo": {
-        "message": "Error loading subreddit info.",
+        "message": "תקלה בטעינת מידע עבור תתרדיט",
         "description": ""
     },
     "accountSwitcherName": {
@@ -1020,7 +1064,7 @@
         "description": ""
     },
     "keyboardNavMoveDownSiblingDesc": {
-        "message": "Move to next sibling (in comments) - skips to next sibling at the same depth.",
+        "message": "עבור לאח הבא (בתגובות) - מדלג על האח הבא באותו העומק.",
         "description": ""
     },
     "nightModeNightSwitchTitle": {
@@ -1028,27 +1072,27 @@
         "description": ""
     },
     "commentPreviewEnableForPostsTitle": {
-        "message": "Enable For Posts",
+        "message": "אפשר לפוסטים",
         "description": ""
     },
     "keyboardNavToggleHelpDesc": {
-        "message": "Show help for keyboard shortcuts.",
+        "message": "הראה קיצורי מקלדת",
         "description": ""
     },
     "dashboardDashboardShortcutTitle": {
-        "message": "Dashboard Shortcut",
+        "message": "קיצורי לוח מחוונים",
         "description": ""
     },
     "keyboardNavHideTitle": {
-        "message": "Hide",
+        "message": "החבא",
         "description": ""
     },
     "userInfoLink": {
-        "message": "Link:",
+        "message": "קישור:",
         "description": ""
     },
     "submitHelperTimeAgo": {
-        "message": "$1 ago",
+        "message": "לפני $1",
         "description": "As in '1 day ago'"
     },
     "betteRedditVideoTimesDesc": {
@@ -1064,15 +1108,15 @@
         "description": ""
     },
     "accountSwitcherSimpleArrow": {
-        "message": "simple arrow",
+        "message": "חץ פשוט",
         "description": ""
     },
     "filteRedditFlairTitle": {
-        "message": "Flair",
+        "message": "סימון",
         "description": ""
     },
     "messageMenuUseQuickMessageTitle": {
-        "message": "Use Quick Message",
+        "message": "השתמש בהודעה מהירה",
         "description": ""
     },
     "userTaggerCommandLineDescription": {
@@ -1088,7 +1132,7 @@
         "description": ""
     },
     "betteRedditFixHideLinksTitle": {
-        "message": "Fix Hide Links",
+        "message": "תקן קישורים חבויים",
         "description": ""
     },
     "commentNavName": {
@@ -1096,7 +1140,7 @@
         "description": ""
     },
     "keyboardNavToggleCommentNavigatorDesc": {
-        "message": "Open Comment Navigator.",
+        "message": "פתח נווט תגובות",
         "description": ""
     },
     "presetsLiteDesc": {
@@ -1107,8 +1151,12 @@
         "message": "Pressing Ctrl+Enter or Cmd+Enter will submit your comment/wiki edit.",
         "description": ""
     },
+    "onboardingUpdateNotifictionNothing": {
+        "message": "כלום",
+        "description": ""
+    },
     "filteRedditShowFilterlineTitle": {
-        "message": "Show Filterline",
+        "message": "הראה קו סינון",
         "description": ""
     },
     "multiredditNavbarSectionLinksTitle": {
@@ -1116,7 +1164,7 @@
         "description": ""
     },
     "hideChildCommentsDesc": {
-        "message": "מאפשר לך להסתיר את כל התגובות, למעט תגובות לפוסט המקורי על מנת להקל בקריאה.",
+        "message": "אפשר הסתרת ילד תגובות",
         "description": ""
     },
     "userTaggerSetATag": {
@@ -1124,7 +1172,7 @@
         "description": ""
     },
     "submitHelperName": {
-        "message": "Submission Helper",
+        "message": "עוזר הגשה",
         "description": ""
     },
     "voteEnhancementsDownvote": {
@@ -1132,24 +1180,20 @@
         "description": ""
     },
     "dashboardDefaultSortTitle": {
-        "message": "Default Sort",
+        "message": "סינון ברירת מחדל",
         "description": ""
     },
     "commentStyleCommentRoundedTitle": {
-        "message": "Comment Rounded",
+        "message": "תגובות מעוגלות",
         "description": ""
     },
     "keyboardNavImageSizeUpTitle": {
-        "message": "Image Size Up",
+        "message": "הגדל את גודל התמונה במידה אחת",
         "description": ""
     },
     "styleTweaksToggleSubredditStyleOnOffFor": {
-        "message": "toggle subreddit style $1 for: $2",
+        "message": "אפשר/כבה סגנון תתרדיט $1 עבור: $2",
         "description": "As in 'toggle subreddit style off for: subreddit'"
-    },
-    "notificationsModuleID": {
-        "message": "module ID",
-        "description": ""
     },
     "commentsCategory": {
         "message": "תגובות",
@@ -1168,7 +1212,7 @@
         "description": ""
     },
     "logoLinkMyUserPage": {
-        "message": "My user page",
+        "message": "עמוד במשתמש שלי",
         "description": ""
     },
     "keyboardNavUseGoModeDesc": {
@@ -1191,6 +1235,10 @@
         "message": "Manage different types of notifications.",
         "description": ""
     },
+    "penaltyBoxFeaturesMonitoring": {
+        "message": "monitoring",
+        "description": ""
+    },
     "quickMessageHandleContentLinksDesc": {
         "message": "Open the quick message dialog when clicking on reddit.com/message/compose links in comments, selftext, or wiki pages.",
         "description": ""
@@ -1199,24 +1247,32 @@
         "message": "Update mail buttons on current tab when RES checks for orangereds.",
         "description": ""
     },
+    "penaltyBoxDelayFeaturesDesc": {
+        "message": "Throttle showing features which have a high penalty.",
+        "description": ""
+    },
     "userInfoPostKarma": {
-        "message": "Post Karma:",
+        "message": "קארמת פוסטים:",
         "description": ""
     },
     "styleTweaksToggleSubredditStyleOnOff": {
-        "message": "toggle subreddit style $1",
+        "message": "אפשר/כבה סגנון תתרדיט $1",
         "description": "As in 'toggle subreddit style off'"
+    },
+    "onboardingUpgradeCta": {
+        "message": "קרא עוד",
+        "description": ""
     },
     "keyboardNavCommentsLinkToggleExpandoTitle": {
         "message": "Comments Link Toggle Expando",
         "description": ""
     },
     "logoLinkRedditLogoDestinationTitle": {
-        "message": "Reddit Logo Destination",
+        "message": "ייעוד סמל רדיט",
         "description": ""
     },
     "commentPreviewEnableForSubredditConfigTitle": {
-        "message": "Enable For Subreddit Config",
+        "message": "אפשר לתצורת תתרדיט",
         "description": ""
     },
     "accountSwitcherShowKarmaDesc": {
@@ -1236,19 +1292,31 @@
         "description": ""
     },
     "keyboardNavMoveToParentDesc": {
-        "message": "Move to parent (in comments).",
+        "message": "עבור להורה (בתגובות)",
         "description": ""
     },
     "xPostLinksCategory": {
-        "message": "Submissions",
+        "message": "בקשות",
         "description": ""
     },
     "keyboardNavGoModeDesc": {
-        "message": "Enter \"goMode\" (necessary before using any of the below \"go to\" shortcuts).",
+        "message": "היכנס ל\"מצב פעיל\" (הכרחי לפני שימוש בקיצור \"לך אל\" מתחת)",
+        "description": ""
+    },
+    "hideChildCommentsHideNestedDesc": {
+        "message": "Hide children for nested comments when hiding all child comments.",
         "description": ""
     },
     "multiredditNavbarAddShortcut": {
         "message": "+add multireddit section shortcut",
+        "description": ""
+    },
+    "toggleCommentsLeftEdgeCollapsedColorTitle": {
+        "message": "Toggle Comments Left Edge Collapsed Color",
+        "description": ""
+    },
+    "scrollOnCollapseDesc": {
+        "message": "Scrolls to next comment when a comment is collapsed.",
         "description": ""
     },
     "commandLineName": {
@@ -1257,6 +1325,10 @@
     },
     "keyboardNavImageMoveLeftTitle": {
         "message": "Image Move Left",
+        "description": ""
+    },
+    "penaltyBoxFeaturesAddRowText": {
+        "message": "manually register feature",
         "description": ""
     },
     "dashboardDesc": {
@@ -1268,7 +1340,7 @@
         "description": ""
     },
     "filteRedditSubredditsTitle": {
-        "message": "Subreddits",
+        "message": "סאברדיטים",
         "description": ""
     },
     "keyboardNavImageMoveDownDesc": {
@@ -1296,7 +1368,7 @@
         "description": ""
     },
     "aboutOptionsFAQTitle": {
-        "message": "FAQ",
+        "message": "שאלות ותשובות",
         "description": ""
     },
     "selectedEntryAddFocusBGColorDesc": {
@@ -1304,7 +1376,7 @@
         "description": ""
     },
     "accountSwitcherShowUserDetailsTitle": {
-        "message": "Show User Details",
+        "message": "הראה פרטי משתמש",
         "description": ""
     },
     "nightModeDesc": {
@@ -1312,7 +1384,7 @@
         "description": ""
     },
     "styleTweaksSubredditStyleDisabled": {
-        "message": "Subreddit style disabled for subreddit: $1.",
+        "message": "סגנון תתרדיט נחסם עבור: $1.",
         "description": ""
     },
     "orangeredUpdateCurrentTabTitle": {
@@ -1320,15 +1392,19 @@
         "description": ""
     },
     "keyboardNavCommentNavigatorMoveUpTitle": {
-        "message": "Comment Navigator Move Up",
+        "message": "עלה למעלה נווט תגובות",
         "description": ""
     },
     "keyboardNavProfileDesc": {
-        "message": "Go to profile.",
+        "message": "היכנס לפרופיל",
         "description": ""
     },
     "keyboardNavFollowLinkAndCommentsNewTabDesc": {
         "message": "View link and comments in new tabs.",
+        "description": ""
+    },
+    "onboardingUpdateNotificationName": {
+        "message": "עדכן הודעות",
         "description": ""
     },
     "multiredditNavbarFadeDelayDesc": {
@@ -1347,6 +1423,10 @@
         "message": "sticky",
         "description": ""
     },
+    "commentToolsWikiAutocompleteDesc": {
+        "message": "Show wiki autocomplete tool when typing in posts, comments, and replies.",
+        "description": ""
+    },
     "keyboardNavImageSizeDownTitle": {
         "message": "Image Size Down",
         "description": ""
@@ -1355,8 +1435,12 @@
         "message": "The saved tab is now located in the multireddit sidebar. This will restore a \"saved\" link to the header (next to the \"hot\", \"new\", etc. tabs).",
         "description": ""
     },
+    "toggleCommentsLeftEdgeColorDesc": {
+        "message": "Default color of the bar.",
+        "description": ""
+    },
     "toggleOff": {
-        "message": "off",
+        "message": "כבוי",
         "description": ""
     },
     "commentToolsSubredditAutocompleteDesc": {
@@ -1368,7 +1452,7 @@
         "description": ""
     },
     "betteRedditShowTimestampWikiTitle": {
-        "message": "Show Timestamp Wiki",
+        "message": "הראה תוויות זמן של ויקי",
         "description": ""
     },
     "commentToolsMacrosDesc": {
@@ -1376,11 +1460,11 @@
         "description": ""
     },
     "keyboardNavProfileTitle": {
-        "message": "Profile",
+        "message": "פרופיל",
         "description": ""
     },
     "filteRedditFilterSubredditsFromTitle": {
-        "message": "Filter Subreddits From",
+        "message": "סנן סאברדיטים מ",
         "description": ""
     },
     "userTaggerShowAnyway": {
@@ -1388,23 +1472,27 @@
         "description": "for showing ignored comments"
     },
     "accountSwitcherAddAccount": {
-        "message": "+add account",
+        "message": "+הוסף משתמש",
         "description": ""
     },
     "userInfoHighlight": {
-        "message": "Highlight",
+        "message": "הדגש",
         "description": ""
     },
     "filteRedditExcludeModqueueDesc": {
         "message": "Don't filter anything on modqueue pages (modqueue, reports, spam, etc.).",
         "description": ""
     },
+    "filteRedditEmptyNotificationHeader": {
+        "message": "כל הפוסטים מסוננים.",
+        "description": ""
+    },
     "subredditInfoSubscribers": {
-        "message": "Subscribers:",
+        "message": "מנויים:",
         "description": ""
     },
     "keyboardNavMoveUpThreadDesc": {
-        "message": "Move to the topmost comment of the previous thread (in comments).",
+        "message": "עבור לתגובה העליונה בתרד הקודם (בתגובות)",
         "description": ""
     },
     "commentToolsFormattingToolButtonsDesc": {
@@ -1412,7 +1500,7 @@
         "description": ""
     },
     "keyboardNavMoveBottomTitle": {
-        "message": "Move Bottom",
+        "message": "רד לתחתית",
         "description": ""
     },
     "spoilerTagsName": {
@@ -1428,11 +1516,11 @@
         "description": ""
     },
     "hoverFadeSpeedDesc": {
-        "message": "Fade speed (in seconds).",
+        "message": "מהירות דעיכה(בשניות)",
         "description": ""
     },
     "betteRedditShowTimestampPostsDesc": {
-        "message": "Show the precise date (Sun Nov 16 20:14:56 2014 UTC) instead of a relative date (7 days ago), for posts.",
+        "message": "הראה תאריך מדויק(יום ראשון 16 בנובמבר 2014 20:14:56 UTC) במקום תאריך יחסי (לפני 7 ימים) בפוסטים.",
         "description": ""
     },
     "submissionsCategory": {
@@ -1447,12 +1535,16 @@
         "message": "Save Post",
         "description": ""
     },
+    "penaltyBoxDesc": {
+        "message": "Automatically delay or disable RES features which go unused.",
+        "description": ""
+    },
     "searchHelperSearchByFlairDesc": {
         "message": "When clicking on a post's flair, search its subreddit for that flair.\nMay not work in some subreddits that hide the actual flair and add pseudo-flair with CSS (only workaround is to disable subreddit style).",
         "description": ""
     },
     "subredditInfoDesc": {
-        "message": "Adds a hover tooltip to subreddits.",
+        "message": "מוסיף הודעת עכבר בריחוף לסאברדיטים",
         "description": ""
     },
     "nightModeNightSwitchDesc": {
@@ -1491,24 +1583,28 @@
         "message": "אם דבר מה אינו עובד כשורה, בקש עזרה ב- /r/RESissues",
         "description": ""
     },
+    "nightModeAutomaticNightModeNone": {
+        "message": "כבוי",
+        "description": ""
+    },
     "keyboardNavMoveUpDesc": {
-        "message": "Move up to the previous link or comment in flat lists.",
+        "message": "עלה לקישור קודם או תגובה קודמת ברשימות שטוחות",
         "description": ""
     },
     "troubleshooterNoActionTaken": {
-        "message": "No action was taken.",
+        "message": "לא נעשתה פעולה",
         "description": ""
     },
     "commentPreviewEnableForWikiTitle": {
-        "message": "Enable For Wiki",
+        "message": "אפשר לויקי",
         "description": ""
     },
     "filteRedditExcludeUserPagesTitle": {
-        "message": "Exclude User Pages",
+        "message": "אל תכליל דפי משתמשים",
         "description": ""
     },
     "hoverInstancesName": {
-        "message": "name",
+        "message": "שם",
         "description": ""
     },
     "showImagesName": {
@@ -1524,7 +1620,7 @@
         "description": ""
     },
     "userInfoRedditorSince": {
-        "message": "Redditor since:",
+        "message": "משתמש רדיט מאז:",
         "description": ""
     },
     "userTaggerShow": {
@@ -1532,7 +1628,7 @@
         "description": "As in 'Show tagged users' or 'Show all users'"
     },
     "hoverFadeSpeedTitle": {
-        "message": "Fade Speed",
+        "message": "מהירות דעיכה",
         "description": ""
     },
     "necLoadChildCommentsTitle": {
@@ -1544,7 +1640,7 @@
         "description": ""
     },
     "filteRedditCustomFiltersTitle": {
-        "message": "Custom Filters",
+        "message": "מסננים מותאמים אישית",
         "description": ""
     },
     "accountSwitcherShowGoldDesc": {
@@ -1552,19 +1648,27 @@
         "description": ""
     },
     "keyboardNavMoveToParentTitle": {
-        "message": "Move To Parent",
+        "message": "עבור להורה",
+        "description": ""
+    },
+    "toggleCommentsOnClickLeftEdgeTitle": {
+        "message": "Toggle Comments On Click Left Edge",
         "description": ""
     },
     "betteRedditShowTimestampCommentsTitle": {
-        "message": "Show Timestamps Comments",
+        "message": "הראה תוויות זמן של תגובות",
         "description": ""
     },
     "accountSwitcherAccountsTitle": {
-        "message": "Accounts",
+        "message": "משתמשים",
         "description": ""
     },
     "spoilerTagsDesc": {
         "message": "מסתיר ספוילרים בעמודי הפרופיל של משתמשים.",
+        "description": ""
+    },
+    "onboardingUpdateNotifictionNotification": {
+        "message": "הראה הודעות קופצות",
         "description": ""
     },
     "keyboardNavCommentsLinkToggleExpandoDesc": {
@@ -1576,7 +1680,7 @@
         "description": ""
     },
     "commentDepthCommentDepth": {
-        "message": "comment depth",
+        "message": "עומק תגובה",
         "description": ""
     },
     "keyboardNavImageMoveDownTitle": {
@@ -1592,7 +1696,7 @@
         "description": ""
     },
     "keyboardNavMoveUpThreadTitle": {
-        "message": "Move Up Thread",
+        "message": "עלה תרד אחד למעלה",
         "description": ""
     },
     "showKarmaDesc": {
@@ -1600,7 +1704,15 @@
         "description": ""
     },
     "commentDepthDefaultCommentDepthTitle": {
-        "message": "Default Comment Depth",
+        "message": "ברירת מחדל של עומק תגובות",
+        "description": ""
+    },
+    "penaltyBoxFeaturesTitle": {
+        "message": "Features",
+        "description": ""
+    },
+    "hideChildCommentsNestedDesc": {
+        "message": "Add the \"hide child comments\" button to all comments with children, instead of just top level comments.",
         "description": ""
     },
     "newCommentCountSubscriptionLengthTitle": {
@@ -1608,15 +1720,15 @@
         "description": ""
     },
     "keyboardNavMoveDownParentSiblingTitle": {
-        "message": "Move Down Parent Sibling",
+        "message": "עבוא אח הורה אחד למטה",
         "description": ""
     },
     "dashboardTagsPerPageTitle": {
-        "message": "Tags Per Page",
+        "message": "תגיות לפי עמוד",
         "description": ""
     },
     "betteRedditShowTimestampModerationLogTitle": {
-        "message": "Show Timestamp Moderation Log",
+        "message": "הראה תוויות זמן של יומן שינויים",
         "description": ""
     },
     "userTaggerStoreSourceLinkDesc": {
@@ -1628,19 +1740,19 @@
         "description": ""
     },
     "commentToolsQuoteKeyTitle": {
-        "message": "Quote Key",
+        "message": "מקש ציטוט",
         "description": ""
     },
     "keyboardNavHideDesc": {
-        "message": "Hide link.",
+        "message": "החבא קישור",
         "description": ""
     },
     "commentToolsBoldKeyTitle": {
-        "message": "Bold Key",
+        "message": "מקש בולט",
         "description": ""
     },
     "xPostLinksName": {
-        "message": "X-post Links",
+        "message": "לינקים לפוסטים מוצלבים",
         "description": ""
     },
     "userTaggerShowTaggingIconDesc": {
@@ -1656,11 +1768,15 @@
         "description": ""
     },
     "keyboardNavModmailTitle": {
-        "message": "Modmail",
+        "message": "דואר מודים",
         "description": ""
     },
     "userTaggerColor": {
         "message": "Color",
+        "description": ""
+    },
+    "hideChildCommentsHideNestedTitle": {
+        "message": "Hide Nested",
         "description": ""
     },
     "newCommentCountCleanCommentsTitle": {
@@ -1672,11 +1788,11 @@
         "description": ""
     },
     "userInfoComments": {
-        "message": "Comments",
+        "message": "תגובות",
         "description": ""
     },
     "filteRedditForceSyncFiltersTitle": {
-        "message": "Force Sync Filters",
+        "message": "הכרח מסנני סינכרון",
         "description": ""
     },
     "nerShowServerInfoTitle": {
@@ -1684,7 +1800,7 @@
         "description": ""
     },
     "troubleshooterSettingsReset": {
-        "message": "All settings reset. Reload to see the result.",
+        "message": "כל ההגדרות אותחלו. רענן בכדי לצפות בתוצאות",
         "description": ""
     },
     "keyboardNavImageMoveLeftDesc": {
@@ -1696,15 +1812,19 @@
         "description": ""
     },
     "filteRedditRegexpFiltersTitle": {
-        "message": "Regexp Filters",
+        "message": "מסננים לביטויים סדירים",
         "description": ""
     },
     "subredditInfoAddRemoveShortcut": {
-        "message": "shortcut",
+        "message": "קיצור דרך",
         "description": "as in '+shortcut' or '-shortcut'"
     },
+    "penaltyBoxName": {
+        "message": "RES Feature Throttle",
+        "description": ""
+    },
     "userInfoSendMessage": {
-        "message": "send message",
+        "message": "שלח הודעה",
         "description": ""
     },
     "noPartDisableVoteButtonsTitle": {
@@ -1716,7 +1836,7 @@
         "description": ""
     },
     "keyboardNavMoveUpCommentTitle": {
-        "message": "Move Up Comment",
+        "message": "עלה תגובה אחת למעלה",
         "description": ""
     },
     "searchHelperUserFilterBySubredditDesc": {
@@ -1760,11 +1880,11 @@
         "description": ""
     },
     "filteRedditExcludeModqueueTitle": {
-        "message": "Exclude Modqueue",
+        "message": "אל תכליל תורי מודים",
         "description": ""
     },
     "keyboardNavEnterFilterCommandLineDesc": {
-        "message": "Launch filter command line.",
+        "message": "הפעל שורת פקודות עבור סינון",
         "description": ""
     },
     "userTaggerTagCanNotSetTag": {
@@ -1772,7 +1892,7 @@
         "description": ""
     },
     "toggleOn": {
-        "message": "on",
+        "message": "פועל",
         "description": ""
     },
     "contextDesc": {
@@ -1784,7 +1904,11 @@
         "description": ""
     },
     "keyboardNavMoveTopTitle": {
-        "message": "Move Top",
+        "message": "עלה לצמרת",
+        "description": ""
+    },
+    "nightModeAutomaticNightModeUser": {
+        "message": "שעות לפי הגדרת משתמש",
         "description": ""
     },
     "userTaggerIgnored": {
@@ -1796,11 +1920,15 @@
         "description": ""
     },
     "keyboardNavFollowLinkNewTabTitle": {
-        "message": "Follow Link New Tab",
+        "message": "עקוב אחר קישור כרטיסייה חדשה",
+        "description": ""
+    },
+    "keyboardNavAmbiguousShortcutPromptFollowUp": {
+        "message": "You can change this later from the $1 settings",
         "description": ""
     },
     "customTogglesToggleTitle": {
-        "message": "Toggle",
+        "message": "אפשר/כבה",
         "description": ""
     },
     "accountSwitcherUpdateOtherTabsDesc": {
@@ -1812,39 +1940,51 @@
         "description": ""
     },
     "accountSwitcherDropDownStyleTitle": {
-        "message": "Drop Down Style",
+        "message": "סגנון יורד",
         "description": ""
     },
     "commentToolsCtrolEnterSubmitsPostsDesc": {
         "message": "Pressing Ctrl+Enter or Cmd+Enter will submit your post.",
         "description": ""
     },
+    "optionKey": {
+        "message": "option ID",
+        "description": ""
+    },
     "stylesheetDesc": {
-        "message": "Load extra stylesheets or your own CSS snippets.",
+        "message": "טען מסמכים נוספים או חלקי CSS משלך",
         "description": ""
     },
     "accountSwitcherPassword": {
-        "message": "password",
+        "message": "סיסמא",
         "description": ""
     },
     "userInfoUnignore": {
-        "message": "Unignore",
+        "message": "בטל התעלמות",
+        "description": ""
+    },
+    "toggleCommentsLeftEdgeColorTitle": {
+        "message": "Toggle Comments Left Edge Color",
         "description": ""
     },
     "commentToolsMacrosTitle": {
-        "message": "Macros",
+        "message": "מאקרו-ים",
         "description": ""
     },
     "nightModeAutomaticNightModeDesc": {
-        "message": "Enable automatic night mode - night mode automatically starts and stops at the times configured below.\n\nFor the times below, a 24-hour clock (\"military time\") from 0:00 to 23:59 is used.\ne.g. the time 8:20pm would be written as 20:20, and 12:30am would be written as 00:30 or 0:30.\n\nTo temporarily override automatic night mode, manually flip the night mode switch.\nConfigure how long the override lasts below.",
+        "message": "Enable automatic night mode.\n\nIn automatic mode, you will be prompted to share your location. Your location will only be used to calculate sunrise & sunset times.\n\nIn user-defined hours mode, night mode automatically starts and stops at the times configured below.\n\nFor the times below, a 24-hour clock (\"military time\") from 0:00 to 23:59 is used.\ne.g. the time 8:20pm would be written as 20:20, and 12:30am would be written as 00:30 or 0:30.\n\nTo temporarily override automatic night mode, manually flip the night mode switch.\nConfigure how long the override lasts below.",
         "description": ""
     },
     "subredditInfoFilterFromAllAndDomain": {
-        "message": "Filter this subreddit from /r/all and /domain/*",
+        "message": "סנן תתרדיט זה מr/all ו/domain/*",
         "description": ""
     },
     "searchCopyResultForComment": {
         "message": "copy this for a comment",
+        "description": ""
+    },
+    "moduleID": {
+        "message": "module ID",
         "description": ""
     },
     "orangeredShowUnreadCountInTitleDesc": {
@@ -1860,11 +2000,11 @@
         "description": ""
     },
     "subredditInfoName": {
-        "message": "מידע אודות סאברדיט",
+        "message": "מידע אודות תתרדיט",
         "description": ""
     },
     "betteRedditVideoUploadedTitle": {
-        "message": "Video Uploaded",
+        "message": "סרטון הועלה",
         "description": ""
     },
     "profileNavigatorFadeSpeedDesc": {
@@ -1876,7 +2016,11 @@
         "description": ""
     },
     "aboutOptionsBugsTitle": {
-        "message": "Bugs",
+        "message": "באגים",
+        "description": ""
+    },
+    "nerShowPauseButtonTitle": {
+        "message": "Show Pause Button",
         "description": ""
     },
     "singleClickName": {
@@ -1903,6 +2047,10 @@
         "message": "Show Unread Count In Favicon",
         "description": ""
     },
+    "penaltyBoxSuspendFeaturesDesc": {
+        "message": "Turn off features which exceed the maximum penalty.",
+        "description": ""
+    },
     "voteEnhancementsVotes": {
         "message": "votes",
         "description": ""
@@ -1916,15 +2064,19 @@
         "description": ""
     },
     "commentToolsKey": {
-        "message": "key",
+        "message": "מפתח",
         "description": ""
     },
     "commentStyleName": {
         "message": "סגנון תגובה",
         "description": ""
     },
+    "onboardingBetaUpdateNotificationDescription": {
+        "message": "שיטת הודעות לעדכוני בטא",
+        "description": ""
+    },
     "keyboardNavFrontPageTitle": {
-        "message": "Front Page",
+        "message": "עמוד ראשי",
         "description": ""
     },
     "selectedEntryScrollToSelectedThingOnLoadDesc": {
@@ -1940,7 +2092,7 @@
         "description": ""
     },
     "commentToolsText": {
-        "message": "text",
+        "message": "טקסט",
         "description": ""
     },
     "notificationStickyTitle": {
@@ -1956,15 +2108,15 @@
         "description": ""
     },
     "hideChildCommentsAutomaticDesc": {
-        "message": "Automatically hide all but parent comments, or provide a link to hide them all?",
+        "message": "אוטומטית החבא את הכל חוץ מהורי התגובות , או ספק קישור על מנת להחביא את כולם?",
         "description": ""
     },
     "subredditInfoRemoveThisSubredditFromShortcuts": {
-        "message": "Remove this subreddit from your shortcut bar",
+        "message": "הסר תתרדיט זה מרשימת הקיצורים",
         "description": ""
     },
     "keyboardNavPrevPageTitle": {
-        "message": "Prev Page",
+        "message": "עמוד הקודם",
         "description": ""
     },
     "commentStyleCommentBoxesDesc": {
@@ -1972,7 +2124,7 @@
         "description": ""
     },
     "keyboardNavOnVoteMoveDownTitle": {
-        "message": "On Vote Move Down",
+        "message": "רד למטה לאחר הצבעה",
         "description": ""
     },
     "nerHideDupesTitle": {
@@ -1980,7 +2132,7 @@
         "description": ""
     },
     "keyboardNavFrontPageDesc": {
-        "message": "Go to front page.",
+        "message": "היכנס לעמוד ראשי",
         "description": ""
     },
     "keyboardNavFollowLinkAndCommentsNewTabBGTitle": {
@@ -2004,7 +2156,7 @@
         "description": ""
     },
     "aboutOptionsBackupTitle": {
-        "message": "Backup",
+        "message": "גיבוי",
         "description": ""
     },
     "productivityCategory": {
@@ -2012,15 +2164,15 @@
         "description": ""
     },
     "styleTweaksNoSubredditSpecified": {
-        "message": "No subreddit specified.",
+        "message": "לא סופק תתרדיט.",
         "description": ""
     },
     "hoverCloseOnMouseOutTitle": {
-        "message": "Close On Mouse Out",
+        "message": "סגור ביציאת העכבר",
         "description": ""
     },
     "keyboardNavMoveToTopCommentDesc": {
-        "message": "Move to the topmost comment of the current thread (in comments).",
+        "message": "עבור לתגובה העליונה בתרד הנוכחי (בתגובות)",
         "description": ""
     },
     "betteRedditFixHideLinksDesc": {
@@ -2032,7 +2184,7 @@
         "description": ""
     },
     "troubleshooterEntriesRemoved": {
-        "message": "$1 entries removed.",
+        "message": "$1 ערכים הוסרו",
         "description": ""
     },
     "newCommentCountMonitorPostsVisitedIncognitoTitle": {
@@ -2052,11 +2204,11 @@
         "description": ""
     },
     "commentToolsCtrlEnterSavesLiveThreadsTitle": {
-        "message": "Ctrl+Enter Saves Live Threads",
+        "message": "Ctrl+Enter שומר תרדים חיים",
         "description": ""
     },
     "commentDepthSubredditCommentDepthsTitle": {
-        "message": "Subreddit Comment Depths",
+        "message": "עומק תגובות בסאברדיט",
         "description": ""
     },
     "commentPreviewEnableBigEditorDesc": {
@@ -2072,11 +2224,11 @@
         "description": ""
     },
     "betteRedditHideLinkFadeDelayTitle": {
-        "message": "Hide Link Fade Delay",
+        "message": "החבא דעיכת קישור",
         "description": ""
     },
     "filteRedditNSFWQuickToggleTitle": {
-        "message": "NSFW Quick Toggle",
+        "message": "מגש הפעלה מהיר לתוכן מיני/פוגעני",
         "description": ""
     },
     "filteRedditAllowNSFWDesc": {
@@ -2092,7 +2244,7 @@
         "description": ""
     },
     "commentToolsMacroButtonsTitle": {
-        "message": "Macro Buttons",
+        "message": "לחצני מאקרו",
         "description": ""
     },
     "filteRedditExcludeOwnPostsDesc": {
@@ -2112,11 +2264,11 @@
         "description": ""
     },
     "voteEnhancementsName": {
-        "message": "Vote Enhancements",
+        "message": "הצבע עבור שיפורים",
         "description": ""
     },
     "betteRedditShowHiddenSortOptionsTitle": {
-        "message": "Show Hidden Sort Options",
+        "message": "הראה אפשרויות סינון חבויות",
         "description": ""
     },
     "betteRedditTruncateLongLinksDesc": {
@@ -2124,11 +2276,15 @@
         "description": ""
     },
     "subredditInfoAddRemoveDashboard": {
-        "message": "dashboard",
+        "message": "לוח מחוונים",
         "description": "as in '+dashboard' or '-dashboard'"
     },
+    "commentToolsWikiAutocompleteTitle": {
+        "message": "Wiki Autocomplete",
+        "description": ""
+    },
     "commentToolsUserAutoCompleteTitle": {
-        "message": "User Autocomplete",
+        "message": "השלמה אוטומטית של המשתמש",
         "description": ""
     },
     "multiredditNavbarFadeSpeedTitle": {
@@ -2136,7 +2292,11 @@
         "description": ""
     },
     "aboutOptionsCodeTitle": {
-        "message": "Code",
+        "message": "קוד",
+        "description": ""
+    },
+    "scrollOnCollapseTitle": {
+        "message": "Scroll On Collapse",
         "description": ""
     },
     "nerReversePauseIconDesc": {
@@ -2147,16 +2307,24 @@
         "message": "Username",
         "description": ""
     },
+    "onboardingPatchUpdateNotificationName": {
+        "message": "תקן הודעת עדכון",
+        "description": ""
+    },
+    "keyboardNavSlashAllTitle": {
+        "message": "/r/all",
+        "description": ""
+    },
     "keyboardNavImageMoveUpDesc": {
         "message": "Move the image(s) in the highlighted post area up.",
         "description": ""
     },
     "aboutOptionsDonateTitle": {
-        "message": "Donate",
+        "message": "תרום",
         "description": ""
     },
     "keyboardNavGoModeTitle": {
-        "message": "Go Mode",
+        "message": "מצב פעיל",
         "description": ""
     },
     "keyboardNavName": {
@@ -2167,8 +2335,12 @@
         "message": "סמן משתמשים",
         "description": ""
     },
+    "newCommentCountNotifyEditedPostsTitle": {
+        "message": "Notify Edited Posts",
+        "description": ""
+    },
     "logoLinkCurrent": {
-        "message": "Current subreddit/multireddit",
+        "message": "תתרדיט/מולטירדיט נוכחי",
         "description": ""
     },
     "keyboardNavFollowPermalinkTitle": {
@@ -2200,11 +2372,11 @@
         "description": ""
     },
     "styleTweaksYouMustSpecifyXOrY": {
-        "message": "You must specify \"$1\" or \"$2\".",
+        "message": "עלייך לספק \"$1\" או \"$2\"",
         "description": ""
     },
     "keyboardNavMoveUpTitle": {
-        "message": "Move Up",
+        "message": "עלה למעלה",
         "description": ""
     },
     "pageNavToTopTitle": {
@@ -2220,7 +2392,7 @@
         "description": ""
     },
     "userbarHiderToggleUserbar": {
-        "message": "Toggle Userbar",
+        "message": "אפשר/בטל שורת משתמש",
         "description": ""
     },
     "nerReversePauseIconTitle": {
@@ -2232,7 +2404,7 @@
         "description": ""
     },
     "subredditInfoRemoveThisSubredditFromDashboard": {
-        "message": "Remove this subreddit from your dashboard",
+        "message": "הסר תתרדיט זה מלוח המחוונים שלך",
         "description": ""
     },
     "voteEnhancementsDesc": {
@@ -2244,11 +2416,11 @@
         "description": ""
     },
     "subredditManName": {
-        "message": "מנהל סאברדיט",
+        "message": "מנהל תתרדיט",
         "description": ""
     },
     "aboutOptionsSuggestionsTitle": {
-        "message": "Suggestions",
+        "message": "הצעות",
         "description": ""
     },
     "keyboardNavSaveCommentTitle": {
@@ -2272,7 +2444,7 @@
         "description": ""
     },
     "userInfoInvalidUsernameLink": {
-        "message": "Invalid username link.",
+        "message": "קישור שם משתמש לא תקין.",
         "description": ""
     },
     "searchHelperAddSearchOptionsDesc": {
@@ -2280,7 +2452,7 @@
         "description": ""
     },
     "keyboardNavCommentNavigatorMoveDownDesc": {
-        "message": "Move down using Comment Navigator.",
+        "message": "רד למטה באמצעות נווט תגובות",
         "description": ""
     },
     "nightModeNightModeEndTitle": {
@@ -2311,6 +2483,14 @@
         "message": "ליבה",
         "description": ""
     },
+    "penaltyBoxFeaturesPenalty": {
+        "message": "penalty",
+        "description": "How heavily the feature is penalized (0-100)"
+    },
+    "penaltyBoxFeaturesDesc": {
+        "message": "Track usage of different features.",
+        "description": ""
+    },
     "commentDepthMinimumComments": {
         "message": "minimum comments",
         "description": ""
@@ -2332,15 +2512,19 @@
         "description": ""
     },
     "commentToolsEnableOnBanMessagesTitle": {
-        "message": "Enable On Ban Messages",
+        "message": "אפשר בהודעות איסור",
         "description": ""
     },
     "newCommentCountSubscriptionLengthDesc": {
         "message": "Number of days before thread subscriptions expire.",
         "description": ""
     },
+    "keyboardNavAmbiguousShortcutPrompt": {
+        "message": "RES' $1 isn't sure what to do when you press the keyboard shortcut $2. $3 What should pressing $4 do?",
+        "description": ""
+    },
     "styleTweaksToggleSubredditStyle": {
-        "message": "toggle subreddit style",
+        "message": "אפשר/כבה סגנון תתרדיט",
         "description": ""
     },
     "orangeredUnreadLinksToInboxDesc": {
@@ -2351,20 +2535,24 @@
         "message": "מונה תגובות חדשות",
         "description": ""
     },
+    "keyboardNavSlashAllDesc": {
+        "message": "Go to /r/all.",
+        "description": ""
+    },
     "keyboardNavShowParentsTitle": {
-        "message": "Show Parents",
+        "message": "הראה הורים",
         "description": ""
     },
     "logoLinkFrontpage": {
-        "message": "Frontpage",
+        "message": "עמוד ראשי",
         "description": ""
     },
     "commentToolsCategory": {
-        "message": "category",
+        "message": "קטגוריה",
         "description": ""
     },
     "betteRedditScoreHiddenTimeLeftDesc": {
-        "message": "When hovering over [score hidden] show time left instead of hide duration.",
+        "message": "כאשר הינך מרחף מעל לניקוד חבויהראה כמה זמן נשאר במקום להחביא משך.",
         "description": ""
     },
     "betteRedditShowLastEditedTimestampDesc": {
@@ -2380,7 +2568,7 @@
         "description": ""
     },
     "styleTweaksSubredditStyleEnabled": {
-        "message": "Subreddit style enabled for subreddit: $1.",
+        "message": "סגנון תתרדיט אופשר עבור: $1.",
         "description": ""
     },
     "notificationsNeverSticky": {
@@ -2388,7 +2576,7 @@
         "description": ""
     },
     "keyboardNavMoveDownDesc": {
-        "message": "Move down to the next link or comment in flat lists.",
+        "message": "רד לקישור הבא או התגובה הבאה ברשימות שטוחות",
         "description": ""
     },
     "betteRedditCommentCollapseInInboxDesc": {
@@ -2400,15 +2588,15 @@
         "description": ""
     },
     "subredditInfoAddThisSubredditToShortcuts": {
-        "message": "Add this subreddit to your shortcut bar",
+        "message": "הוסף תתרדיט זה לרשימת הקיצורים",
         "description": ""
     },
     "accountSwitcherReloadOtherTabsTitle": {
-        "message": "Reload Other Tabs",
+        "message": "טען סימניות אחרות",
         "description": ""
     },
     "betteRedditVideoTimesTitle": {
-        "message": "Video Times",
+        "message": "זמני סרטון",
         "description": ""
     },
     "selectedEntryDesc": {
@@ -2420,15 +2608,15 @@
         "description": ""
     },
     "userTaggerShowIgnoredDesc": {
-        "message": "Provide a link to reveal an ignored link or comment. The hardIgnore option overrides this.",
+        "message": "Provide a link to reveal an ignored link or comment.",
         "description": ""
     },
     "commentToolsItalicKeyTitle": {
-        "message": "Italic Key",
+        "message": "מקש נטוי",
         "description": ""
     },
     "filteRedditUseRedditFiltersTitle": {
-        "message": "Use Reddit Filters",
+        "message": "השתמש במסנני רדיט",
         "description": ""
     },
     "selectedEntrySelectLastThingOnLoadDesc": {
@@ -2436,7 +2624,7 @@
         "description": ""
     },
     "aboutOptionsPresetsTitle": {
-        "message": "Presets",
+        "message": "תבניות",
         "description": ""
     },
     "commentDepthDefaultCommentDepthDesc": {
@@ -2452,15 +2640,15 @@
         "description": ""
     },
     "aboutOptionsContributorsTitle": {
-        "message": "Contributors",
+        "message": "תורמים",
         "description": ""
     },
     "keyboardNavToggleHelpTitle": {
-        "message": "Toggle Help",
+        "message": "אפשר/בטל עזרה",
         "description": ""
     },
     "defaultTitle": {
-        "message": "סגנון סאברדיט מופעל",
+        "message": "סגנון תתרדיט מופעל",
         "description": ""
     },
     "keyboardNavFollowLinkNewTabFocusDesc": {
@@ -2473,6 +2661,10 @@
     },
     "betteRedditPinHeaderDesc": {
         "message": "Pin the subreddit bar, user menu, or header to top, floating down as you scroll.",
+        "description": ""
+    },
+    "onboardingUpdateNotifictionReleaseNotes": {
+        "message": "ראה הודעות גרסא חדשה בכרטיסיית רקע",
         "description": ""
     },
     "betteRedditShowTimestampSidebarDesc": {
@@ -2488,7 +2680,7 @@
         "description": ""
     },
     "messageMenuHoverDelayDesc": {
-        "message": "Delay, in milliseconds, before hover tooltip loads. Default is 1000.",
+        "message": "עכב, באלפיות שנייה, לפני שהודעה מרחפת מופיעה. ברירת מחדל הינה 1000",
         "description": ""
     },
     "keyboardNavFollowSubredditDesc": {
@@ -2500,7 +2692,7 @@
         "description": ""
     },
     "keyboardNavToggleExpandoDesc": {
-        "message": "Toggle expando (image/text/video).",
+        "message": "אפשר/כבה אקספנדו (תמונה/טקסט/וידאו)",
         "description": ""
     },
     "keyboardNavFollowCommentsNewTabDesc": {
@@ -2512,7 +2704,7 @@
         "description": ""
     },
     "backupAndRestoreBackupTitle": {
-        "message": "Backup",
+        "message": "גיבוי",
         "description": ""
     },
     "profileNavigatorHoverDelayDesc": {
@@ -2520,7 +2712,7 @@
         "description": ""
     },
     "styleTweaksRedditPrefsMessage": {
-        "message": "RES allows you to disable specific subreddit styles!",
+        "message": "RES מאפשר לך לכבות סגנונות תתרדיט מסוימים",
         "description": ""
     },
     "customTogglesDesc": {
@@ -2532,11 +2724,15 @@
         "description": ""
     },
     "filteRedditDesc": {
-        "message": "מסנן תוכן לא ראוי לילדים (NSFW), או קישורים על פי מילות מפתח, כתובות אינטרנט (השתמש במתייג משתמשים על מנת להתעלם ממשתמש מסוים) או סאברדיט (עבור /r/all או /domain/*).",
+        "message": "מסנן תוכן לא ראוי לילדים (NSFW), או קישורים על פי מילות מפתח, כתובות אינטרנט (השתמש במתייג משתמשים על מנת להתעלם ממשתמש מסוים) או תתרדיט (עבור /r/all או /domain/*).",
+        "description": ""
+    },
+    "RESTipsMenuItemDesc": {
+        "message": "Add an item to the RES dropdown menu to show tips.",
         "description": ""
     },
     "commentToolsFormattingToolButtonsTitle": {
-        "message": "Formatting Tool Buttons",
+        "message": "מפרמט לחצני כלים",
         "description": ""
     },
     "commentPreviewEnableForWikiDesc": {
@@ -2552,7 +2748,7 @@
         "description": ""
     },
     "betteRedditCommentCollapseInInboxTitle": {
-        "message": "Comment Collapse In Inbox",
+        "message": "מוטט תגובות בתיבת דואר",
         "description": ""
     },
     "usernameHiderName": {
@@ -2568,19 +2764,27 @@
         "description": ""
     },
     "userInfoUserNotFound": {
-        "message": "User not found.",
+        "message": "משתמש לא נמצא.",
         "description": ""
     },
     "betteRedditTruncateLongLinksTitle": {
-        "message": "Truncate Long Links",
+        "message": "קצר קישורים ארוכים",
         "description": ""
     },
     "keyboardNavToggleCmdLineDesc": {
-        "message": "Launch RES command line.",
+        "message": "הפעל שורות פקודות עבור RES",
         "description": ""
     },
     "nerHideDupesDontHide": {
         "message": "Do not hide",
+        "description": ""
+    },
+    "newCommentCountNotifyEditedPostsDesc": {
+        "message": "Notify if a subscribed post is edited.",
+        "description": ""
+    },
+    "penaltyBoxSuspendFeaturesNotificationMessage": {
+        "message": "$1 will be turned off due to lack of use. You can enable it again later in the RES settings console.",
         "description": ""
     },
     "userTaggerYourVotesFor": {
@@ -2596,11 +2800,11 @@
         "description": ""
     },
     "accountSwitcherSnoo": {
-        "message": "snoo (alien)",
+        "message": "סנו (חייזר)",
         "description": ""
     },
     "commentPreviewOpenBigEditorTitle": {
-        "message": "Open Big Editor",
+        "message": "פתח עורך גדול",
         "description": ""
     },
     "keyboardNavImageSizeAnyHeightTitle": {
@@ -2628,7 +2832,7 @@
         "description": ""
     },
     "keyboardNavsSubredditFrontPageDesc": {
-        "message": "Go to subreddit front page.",
+        "message": "היכנס לעמוד הראשי של תתרדיט",
         "description": ""
     },
     "menuName": {
@@ -2660,11 +2864,11 @@
         "description": ""
     },
     "keyboardNavRandomDesc": {
-        "message": "Go to a random subreddit.",
+        "message": "היכנס לסאברדיט אקראי",
         "description": ""
     },
     "commentToolsCommentingAsTitle": {
-        "message": "Commenting As",
+        "message": "מגיב תחת",
         "description": ""
     },
     "keyboardNavImageSizeUpDesc": {
@@ -2676,15 +2880,27 @@
         "description": ""
     },
     "subredditManDesc": {
-        "message": "Allows you to customize the top bar with your own subreddit shortcuts, including dropdown menus of multi-reddits and more.",
+        "message": "מאפשר לך להתאים אישית את השורה העליונה עם קיצורי תת רדיט משלך הכוללים תפריטים יוקדים של מולטירדיטים ועוד.",
         "description": ""
     },
     "keyboardNavSavePostDesc": {
         "message": "Save the current post to your reddit account. This is accessible from anywhere that you're logged in, but does not preserve the original text if it's edited or deleted.",
         "description": ""
     },
+    "hideChildCommentsNestedTitle": {
+        "message": "Nested",
+        "description": ""
+    },
     "commentPreviewEnableBigEditorTitle": {
-        "message": "Enable Big Editor",
+        "message": "אפשר עורך גדול",
+        "description": ""
+    },
+    "penaltyBoxSuspendFeaturesNotificationHeader": {
+        "message": "Suspended Feature",
+        "description": ""
+    },
+    "onboardingBetaUpdateNotificationName": {
+        "message": "הודעת עדכון בטא",
         "description": ""
     },
     "announcementsDesc": {
@@ -2692,7 +2908,7 @@
         "description": ""
     },
     "settingsConsoleDefaultAddRowText": {
-        "message": "Add Row",
+        "message": "הוסף שורה",
         "description": ""
     },
     "keyboardNavReplyDesc": {
@@ -2720,7 +2936,7 @@
         "description": ""
     },
     "keyboardNavProfileNewTabTitle": {
-        "message": "Profile New Tab",
+        "message": "כרטיסיית פרופיל חדשה",
         "description": ""
     },
     "keyboardNavFollowLinkAndCommentsNewTabTitle": {
@@ -2732,7 +2948,7 @@
         "description": ""
     },
     "keyboardNavToggleExpandoTitle": {
-        "message": "Toggle Expando",
+        "message": "אפשר/כבה אקספנדו",
         "description": ""
     },
     "showKarmaName": {
@@ -2740,7 +2956,7 @@
         "description": ""
     },
     "commentToolsSubredditAutocompleteTitle": {
-        "message": "Subreddit Autocomplete",
+        "message": "השלמה אוטומטית של הסאברדיט",
         "description": ""
     },
     "settingsNavName": {
@@ -2784,7 +3000,11 @@
         "description": ""
     },
     "hoverOpenDelayDesc": {
-        "message": "Default delay between mouseover and the popup opening.",
+        "message": "ברירת מחדל של הזמן בין ריחוף העכבר להצגת ההודעה",
+        "description": ""
+    },
+    "toggleCommentsLeftEdgeCollapsedColorDesc": {
+        "message": "Color of the bar when collapsed.",
         "description": ""
     },
     "announcementsName": {
@@ -2796,7 +3016,7 @@
         "description": ""
     },
     "keyboardNavMoveToTopCommentTitle": {
-        "message": "Move To Top Comment",
+        "message": "עלה לתגובה העליונה",
         "description": ""
     },
     "orangeredUpdateOtherTabsTitle": {
@@ -2808,11 +3028,11 @@
         "description": ""
     },
     "sourceSnudownName": {
-        "message": "Show Snudown Source",
+        "message": "הראה מקור מהדר",
         "description": ""
     },
     "keyboardNavInboxDesc": {
-        "message": "Go to inbox.",
+        "message": "היכנס לתיבת הדואר",
         "description": ""
     },
     "gfycatUseMobileGfycatDesc": {
@@ -2836,7 +3056,7 @@
         "description": ""
     },
     "commentToolsShowInputLengthTitle": {
-        "message": "Show Input Length",
+        "message": "הראה אורך קלט",
         "description": ""
     },
     "keyboardNavSaveRESDesc": {
@@ -2852,15 +3072,19 @@
         "description": ""
     },
     "newCommentCountMonitorPostsVisitedIncognitoDesc": {
-        "message": "Monitor the number of comments on posts you have visited while browsing in incognito/private mode.",
+        "message": "Monitor the number of comments and edit dates of posts you have visited while browsing in incognito/private mode.",
+        "description": ""
+    },
+    "filteRedditEmptyNotificationInfo": {
+        "message": "RES שם לב שכל הפוסטים חבויים. לחץ על הלחצן מתחת בכדי לראות אילו פוסטים סוננו.",
         "description": ""
     },
     "backupAndRestoreRestoreTitle": {
-        "message": "Restore",
+        "message": "שחזור",
         "description": ""
     },
     "logoLinkCustom": {
-        "message": "Custom",
+        "message": "מותאם אישית",
         "description": ""
     },
     "orangeredShowFloatingEnvelopeTitle": {
@@ -2880,19 +3104,23 @@
         "description": ""
     },
     "subredditInfoStopFilteringThisSubredditFromAllAndDomain": {
-        "message": "Stop filtering this subreddit from /r/all and /domain/*",
+        "message": "הפסק סינון תתרדיט זה מr/all ו/domain/*",
         "description": ""
     },
     "dashboardDefaultPostsTitle": {
-        "message": "Default Posts",
+        "message": "פרסומי ברירת מחדל",
         "description": ""
     },
     "contextViewFullContextTitle": {
-        "message": "View Full Context",
+        "message": "ראה הקשר מלא",
+        "description": ""
+    },
+    "hideCommentsOnHeaderDoubleClickDesc": {
+        "message": "Toggles comment collapse when the header is double clicked.",
         "description": ""
     },
     "aboutOptionsPrivacyTitle": {
-        "message": "Privacy",
+        "message": "פרטיות",
         "description": ""
     },
     "sourceSnudownDesc": {
@@ -2900,23 +3128,27 @@
         "description": ""
     },
     "keyboardNavMoveDownCommentDesc": {
-        "message": "Move down to the next comment on threaded comment pages.",
+        "message": "רד לתגובה הבאה בעמודי תגובות מושחלים",
         "description": ""
     },
     "submitHelperDesc": {
-        "message": "Provides utilities to help with submitting a post.",
+        "message": "מספק כלים אשר עוזרים בהגשת פוסט",
         "description": ""
     },
     "hideChildCommentsAutomaticTitle": {
-        "message": "Automatic",
+        "message": "אוטומטי",
+        "description": ""
+    },
+    "onboardingUpdateNotificationDescription": {
+        "message": "שיטת הודעות לעדכונים גדולים/קטנים",
         "description": ""
     },
     "hoverFadeDelayDesc": {
-        "message": "Default delay before the popup fades after mouseout.",
+        "message": "ברירת מחדל של דעיכת ההודעה לאחר הזזת העכבר",
         "description": ""
     },
     "logoLinkRedditLogoDestinationDesc": {
-        "message": "Location when you click on the reddit logo.",
+        "message": "מיקום מעבר בלחיצה על סמל רדיט",
         "description": ""
     },
     "settingsConsoleName": {
@@ -2928,7 +3160,7 @@
         "description": ""
     },
     "keyboardNavModmailDesc": {
-        "message": "Go to modmail.",
+        "message": "היכנס לדואר מודים",
         "description": ""
     },
     "dashboardDefaultSortDesc": {
@@ -2939,8 +3171,12 @@
         "message": "After switching accounts, automatically reload other tabs.",
         "description": ""
     },
+    "onboardingPatchUpdateNotificationDescription": {
+        "message": "שיטת הודעה לעדכוני תיקון",
+        "description": ""
+    },
     "hoverInstancesEnabled": {
-        "message": "enabled",
+        "message": "מופעל",
         "description": ""
     },
     "nightModeColoredLinksTitle": {
@@ -2959,6 +3195,10 @@
         "message": "Remove np mode when leaving a No-Participation page.",
         "description": ""
     },
+    "penaltyBoxSuspendFeaturesUndoButton": {
+        "message": "Enable this feature again",
+        "description": ""
+    },
     "userHighlightDesc": {
         "message": "מדגיש משתמשים מסוימים בתגובות: יוצר הפוסט, אדמין, חברים, מנהל קהילה - נוצר ע\"י MrDerk",
         "description": ""
@@ -2972,7 +3212,11 @@
         "description": ""
     },
     "userInfoAddRemoveFriends": {
-        "message": "$1 friends",
+        "message": "$1 חברים",
+        "description": ""
+    },
+    "penaltyBoxFeaturesModuleID": {
+        "message": "moduleID",
         "description": ""
     },
     "nightModeNightModeOverrideHoursDesc": {
@@ -2981,6 +3225,10 @@
     },
     "presetsNoPopupsDesc": {
         "message": "Turn off notifications and hover pop-ups",
+        "description": ""
+    },
+    "nerShowPauseButtonDesc": {
+        "message": "Show a play/pause button for auto-load in the top right corner.",
         "description": ""
     },
     "messageMenuName": {
@@ -2992,7 +3240,7 @@
         "description": ""
     },
     "userbarHiderName": {
-        "message": "User Bar Hider",
+        "message": "מחביא שורת משתמש",
         "description": ""
     },
     "keyboardNavNonLinearScrollStyleDesc": {
@@ -3008,7 +3256,7 @@
         "description": ""
     },
     "troubleshooterCachesCleared": {
-        "message": "All caches cleared.",
+        "message": "כל המטמונים רוקנו",
         "description": ""
     },
     "localDateName": {
@@ -3020,19 +3268,19 @@
         "description": ""
     },
     "keyboardNavUseGoModeTitle": {
-        "message": "Use Go Mode",
+        "message": "השתמש במצב פעיל",
         "description": ""
     },
     "messageMenuLabel": {
-        "message": "label",
+        "message": "תווי",
         "description": ""
     },
     "accountSwitcherShowCurrentUserNameTitle": {
-        "message": "Show Current User Name",
+        "message": "הראה שם משתמש נוכחי",
         "description": ""
     },
     "subredditInfoAddRemoveFilter": {
-        "message": "filter",
+        "message": "סנן",
         "description": ""
     },
     "orangeredShowUnreadCountInTitleTitle": {
@@ -3040,7 +3288,11 @@
         "description": ""
     },
     "commentPreviewSidebarPreviewTitle": {
-        "message": "Sidebar Preview",
+        "message": "תקדים שורת צד",
+        "description": ""
+    },
+    "toggleCommentsOnClickLeftEdgeDesc": {
+        "message": "Creates a bar on the left side of each comment. The bar can be clicked to collapse the comment.",
         "description": ""
     },
     "keyboardNavFollowSubredditNewTabTitle": {
@@ -3056,7 +3308,7 @@
         "description": ""
     },
     "subredditInfoSubscribe": {
-        "message": "subscribe",
+        "message": "הירשם",
         "description": ""
     },
     "keyboardNavDownVoteDesc": {
@@ -3064,23 +3316,31 @@
         "description": ""
     },
     "commentToolsCtrlEnterSubmitsCommentsTitle": {
-        "message": "Ctrl+Enter Submits Comments",
+        "message": "Ctrl+Enter שולח תגובות",
+        "description": ""
+    },
+    "toggleCommentsLeftEdgeHideButtonTitle": {
+        "message": "Toggle Comments Left Edge Hide Button",
         "description": ""
     },
     "commentToolsCtrolEnterSubmitsPostsTitle": {
-        "message": "Ctrl+Enter Submits Posts",
+        "message": "Ctrl+Enter שולח פוסטים",
         "description": ""
     },
     "subredditInfoSubredditCreated": {
-        "message": "Subreddit created:",
+        "message": "תתרדיט נוצר:",
         "description": ""
     },
     "multiredditNavbarLabel": {
         "message": "label",
         "description": ""
     },
+    "penaltyBoxSuspendFeaturesRevertNotificationMessage": {
+        "message": "$1 has been turned back on. This feature will not be throttled or automatically disabled again.",
+        "description": ""
+    },
     "messageMenuHoverDelayTitle": {
-        "message": "Hover Delay",
+        "message": "עיכוב ריחוף",
         "description": ""
     },
     "commentPreviewEnableForBanMessagesDesc": {
@@ -3096,11 +3356,11 @@
         "description": ""
     },
     "subredditInfoSubredditNotFound": {
-        "message": "Subreddit not found.",
+        "message": "תתרדיט לא נמצא",
         "description": ""
     },
     "logoLinkCustomDestinationDesc": {
-        "message": "If redditLogoDestination is set to custom, link here.",
+        "message": "אם יעד סמל רדיט מותאם אישית, קישור כאן",
         "description": ""
     },
     "resTipsName": {
@@ -3108,7 +3368,7 @@
         "description": ""
     },
     "keyboardNavToggleCmdLineTitle": {
-        "message": "Toggle Cmd Line",
+        "message": "אפשר/בטל שורת פקודות",
         "description": ""
     },
     "contextName": {
@@ -3116,7 +3376,7 @@
         "description": ""
     },
     "troubleshooterThisWillKillYourSettings": {
-        "message": "This will kill all your settings and saved data. If you're certain, type in \"$1\".",
+        "message": "פעולה זאת תמחק את כל הגדרותיך והמידע שלך. אם הינך בטוח, כתוב $1",
         "description": ""
     },
     "nightModeNightModeOverrideHoursTitle": {
@@ -3124,19 +3384,23 @@
         "description": ""
     },
     "userInfoUserSuspended": {
-        "message": "User suspended.",
+        "message": "משתמש מושהה",
         "description": ""
     },
     "userInfoLinks": {
-        "message": "Links",
+        "message": "קישורים",
+        "description": ""
+    },
+    "toggleCommentsLeftEdgeHideButtonDesc": {
+        "message": "Hides the default button ([-]) to collapse comments.",
         "description": ""
     },
     "keyboardNavMoveTopDesc": {
-        "message": "Move to top of list (on link pages).",
+        "message": "עלה לראש הרשימה (בדפי קישורים)",
         "description": ""
     },
     "contextDefaultContextTitle": {
-        "message": "Default Context",
+        "message": "הקשר ברירת מחדל",
         "description": ""
     },
     "userTaggerTagUserAs": {
@@ -3144,7 +3408,7 @@
         "description": ""
     },
     "keyboardNavMoveDownSiblingTitle": {
-        "message": "Move Down Sibling",
+        "message": "עבור אח אחד למטה",
         "description": ""
     },
     "customTogglesName": {
@@ -3156,7 +3420,7 @@
         "description": ""
     },
     "keyboardNavProfileNewTabDesc": {
-        "message": "Go to profile in a new tab.",
+        "message": "היכנס לפרופיל בכרטיסייה חדשה",
         "description": ""
     },
     "aboutCategory": {
@@ -3172,7 +3436,7 @@
         "description": ""
     },
     "userInfoGiftRedditGold": {
-        "message": "Gift Reddit Gold",
+        "message": "תן זהב רדיט כמתנה",
         "description": ""
     },
     "backupAndRestoreRestoreDesc": {
@@ -3188,7 +3452,7 @@
         "description": ""
     },
     "hoverInstancesTitle": {
-        "message": "Instances",
+        "message": "מקרים",
         "description": ""
     },
     "userHighlightColorCouldNotBeGenerated": {
@@ -3208,11 +3472,11 @@
         "description": ""
     },
     "logoLinkDashboard": {
-        "message": "Dashboard",
+        "message": "לוח מכוונים",
         "description": ""
     },
     "dashboardDashboardShortcutDesc": {
-        "message": "Show +dashboard shortcut in sidebar for easy addition of dashboard widgets.",
+        "message": "הראה קיצורים ללוח מחוונים בסיידבר עבורעבור תוספת פשוטה של ווידג'טים.",
         "description": ""
     },
     "userInfoName": {
@@ -3220,11 +3484,19 @@
         "description": ""
     },
     "extensionNameAuthor": {
-        "message": "Reddit Enhancement Suite",
+        "message": "סוויטת השדרוגים לרדיט",
+        "description": ""
+    },
+    "toggleCommentsLeftEdgeWidthDesc": {
+        "message": "Width of the bar. Default is 50.",
         "description": ""
     },
     "filteRedditDomainsTitle": {
-        "message": "Domains",
+        "message": "תחומים",
+        "description": ""
+    },
+    "penaltyBoxSuspendFeaturesRevertNotificationHeader": {
+        "message": "Pardoned Feature",
         "description": ""
     },
     "orangeredHideModMailTitle": {
@@ -3232,7 +3504,7 @@
         "description": ""
     },
     "commentNavigatorOpenOnHighlightUserTitle": {
-        "message": "Open On Highlight User",
+        "message": "פתח על משתמש מודגש",
         "description": ""
     },
     "aboutOptionsPrivacy": {
@@ -3240,7 +3512,7 @@
         "description": ""
     },
     "commentStyleContinuityTitle": {
-        "message": "Continuity",
+        "message": "המשכיות",
         "description": ""
     },
     "accountSwitcherShowUserDetailsDesc": {
@@ -3256,19 +3528,19 @@
         "description": ""
     },
     "keyboardNavMoveDownThreadTitle": {
-        "message": "Move Down Thread",
+        "message": "רד תרד אחד למטה",
         "description": ""
     },
     "keyboardNavInboxTitle": {
-        "message": "Inbox",
+        "message": "תיבת דואר",
         "description": ""
     },
     "userInfoUnhighlight": {
-        "message": "Unhighlight",
+        "message": "בטל הדגשה",
         "description": ""
     },
     "commentNavigatorShowByDefaultTitle": {
-        "message": "Show By Default",
+        "message": "הראה כברירת מחדל",
         "description": ""
     }
 }

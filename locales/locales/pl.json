@@ -120,7 +120,7 @@
         "description": ""
     },
     "necLoadChildCommentsDesc": {
-        "message": "Should on-screen child comments be expanded when paused, in addition to top-level comments?",
+        "message": "Czy oprócz komentarzy pierwszego poziomu, również komentarze potomne powinny być rozwinięte podczas pauzy?",
         "description": ""
     },
     "userTaggerName": {
@@ -284,7 +284,7 @@
         "description": ""
     },
     "newCommentCountMonitorPostsVisitedDesc": {
-        "message": "Monitoruj liczbę komentarzy w odwiedzonych postach.",
+        "message": "Monitoruj liczbę komentarzy i daty edycji odwiedzonych postów.",
         "description": ""
     },
     "orangeredDesc": {
@@ -351,6 +351,10 @@
         "message": "Pokaż wyraźny napis \"Komentujesz jako\" jeśli używasz alternatywnego konta. Pierwsze konto w module Przełącznik kont jest traktowane jako twoje główne konto.",
         "description": ""
     },
+    "penaltyBoxFeaturesOptionKey": {
+        "message": "klucz opcji",
+        "description": ""
+    },
     "commentToolsShowInputLengthDesc": {
         "message": "Podczas publikowania, pokaż ilość znaków wpisanych w pole tytułu i treści i ostrzeż mnie, kiedy przekroczę limit 300 znaków dla tytułu.",
         "description": ""
@@ -365,6 +369,10 @@
     },
     "subredditInfoTitle": {
         "message": "Tytuł:",
+        "description": ""
+    },
+    "nightModeAutomaticNightModeAutomatic": {
+        "message": "Automatyczne (wymaga geolokacji)",
         "description": ""
     },
     "keyboardNavFollowLinkAndCommentsNewTabBGDesc": {
@@ -425,6 +433,10 @@
     },
     "keyboardNavFollowLinkDesc": {
         "message": "Otwórz link (tylko strony z listą linków)",
+        "description": ""
+    },
+    "penaltyBoxDelayFeaturesTitle": {
+        "message": "Delay Features",
         "description": ""
     },
     "commentHidePerDesc": {
@@ -500,7 +512,7 @@
         "description": ""
     },
     "necName": {
-        "message": "Never Ending Comments",
+        "message": "Niekończące się komentarze",
         "description": ""
     },
     "filteRedditExcludeOwnPostsTitle": {
@@ -523,6 +535,10 @@
         "message": "Czy pokazywać przycisk subskrypcji?",
         "description": ""
     },
+    "toggleCommentsLeftEdgeHoverColorDesc": {
+        "message": "Kolor paska po najechaniu myszą.",
+        "description": ""
+    },
     "backupAndRestoreBackupDesc": {
         "message": "Pobierz kopię zapasową obecnych ustawień RES.",
         "description": ""
@@ -533,6 +549,10 @@
     },
     "betteRedditDoNoCtrlFDesc": {
         "message": "Używając przeglądarkowej funkcji szukania tekstu (Ctrl+F/Cmd+F), szukaj tylko w treści postów/komentarzy (a nie np. w linkach nawigacyjnych). Domyślnie wyłączone z powodu niewielkiego negatywnego wpływu na wydajność.",
+        "description": ""
+    },
+    "hideCommentsOnHeaderDoubleClickTitle": {
+        "message": "Schowaj komentarz na podwójne kliknięcie nagłówka",
         "description": ""
     },
     "backupName": {
@@ -565,6 +585,10 @@
     },
     "subredditInfoAddThisSubredditToDashboard": {
         "message": "Dodaj ten subreddit do swojego panelu",
+        "description": ""
+    },
+    "toggleCommentsLeftEdgeWidthTitle": {
+        "message": "Toggle Comments Left Edge Width",
         "description": ""
     },
     "accountSwitcherUpdateOtherTabsTitle": {
@@ -719,6 +743,10 @@
         "message": "Zarządzaj poszczególnymi pop-upami",
         "description": ""
     },
+    "toggleCommentsLeftEdgeHoverColorTitle": {
+        "message": "Toggle Comments Left Edge Hover Color",
+        "description": ""
+    },
     "keyboardNavMoveUpCommentDesc": {
         "message": "Idź w górę do poprzedniego komentarza na liście.",
         "description": ""
@@ -755,6 +783,10 @@
         "message": "Szybkość animacji przewijania (w sekundach). Domyślnie: 0.7.",
         "description": ""
     },
+    "filteRedditEmptyNotificationToggleShowReason": {
+        "message": "Przełączanie pokazywania powodów filtru",
+        "description": ""
+    },
     "contextViewFullContextDesc": {
         "message": "Dodaj link \"Zobacz pełny kontekst\" na stronie z komentarzem.",
         "description": ""
@@ -787,6 +819,10 @@
         "message": "Przejdź do subreddita na którym został opublikowany zaznaczony link w nowej karcie (tylko strony z listą linków).",
         "description": ""
     },
+    "nightModeAutomaticNightModeDenied": {
+        "message": "Access to your current location was denied. It is required to calculate sunset and sunrise times for automatic night mode. To disable this functionality, click \"$1\".",
+        "description": ""
+    },
     "styleTweaksSubredditStyle": {
         "message": "Styl subreddita",
         "description": ""
@@ -797,6 +833,10 @@
     },
     "keyboardNavMoveDownTitle": {
         "message": "Idź w dół",
+        "description": ""
+    },
+    "penaltyBoxSuspendFeaturesTitle": {
+        "message": "Zawieś funkcje",
         "description": ""
     },
     "notificationNotificationTypesTitle": {
@@ -893,6 +933,10 @@
     },
     "keyboardNavLinearScrollStyleTitle": {
         "message": "Styl przewijania linearnego",
+        "description": ""
+    },
+    "onboardingUpgradeMessage": {
+        "message": "Reddit Enhancement Suite has been upgraded to v$1.",
         "description": ""
     },
     "keyboardNavShowParentsDesc": {
@@ -1107,6 +1151,10 @@
         "message": "Naciśnięcie Ctrl+Enter/Cmd+Enter wyśle twój komentarz/edycję wiki.",
         "description": ""
     },
+    "onboardingUpdateNotifictionNothing": {
+        "message": "Nothing",
+        "description": ""
+    },
     "filteRedditShowFilterlineTitle": {
         "message": "Pokaż pasek z filtrami",
         "description": ""
@@ -1116,7 +1164,7 @@
         "description": ""
     },
     "hideChildCommentsDesc": {
-        "message": "Pozwala na ukrywanie wszystkich komentarzy oprócz odpowiedzi dla OPa, co pozwala na łatwiejsze czytanie komentarzy.",
+        "message": "Pozwala na ukrywanie podrzędnych komentarzy.",
         "description": ""
     },
     "userTaggerSetATag": {
@@ -1146,10 +1194,6 @@
     "styleTweaksToggleSubredditStyleOnOffFor": {
         "message": "przełącz styl subreddita $1 dla: $2",
         "description": "As in 'toggle subreddit style off for: subreddit'"
-    },
-    "notificationsModuleID": {
-        "message": "ID modułu",
-        "description": ""
     },
     "commentsCategory": {
         "message": "Komentarze",
@@ -1191,12 +1235,20 @@
         "message": "Zarządzaj różnymi typami powiadomień.",
         "description": ""
     },
+    "penaltyBoxFeaturesMonitoring": {
+        "message": "monitoring",
+        "description": ""
+    },
     "quickMessageHandleContentLinksDesc": {
         "message": "Otwórz okno dialogowe umożliwiające wysłanie szybkiej wiadomości po kliknięciu na linki reddit.com/message/compose w komentarzach, tekście własnym lub na stronach wiki.",
         "description": ""
     },
     "orangeredUpdateCurrentTabDesc": {
         "message": "Aktualizuj ikony wiadomości w aktywnej karcie kiedy RES szuka nowych wiadomości.",
+        "description": ""
+    },
+    "penaltyBoxDelayFeaturesDesc": {
+        "message": "Throttle showing features which have a high penalty.",
         "description": ""
     },
     "userInfoPostKarma": {
@@ -1206,6 +1258,10 @@
     "styleTweaksToggleSubredditStyleOnOff": {
         "message": "przełącz styl subreddita $1",
         "description": "As in 'toggle subreddit style off'"
+    },
+    "onboardingUpgradeCta": {
+        "message": "Read more",
+        "description": ""
     },
     "keyboardNavCommentsLinkToggleExpandoTitle": {
         "message": "Przełączanie ekspandera linków w komentarzach",
@@ -1247,8 +1303,20 @@
         "message": "Wejdź do trybu \"Przejdź do\" (konieczny przed użyciem któregokolwiek z poniższych skrótów \"Przejdź do...\").",
         "description": ""
     },
+    "hideChildCommentsHideNestedDesc": {
+        "message": "Hide children for nested comments when hiding all child comments.",
+        "description": ""
+    },
     "multiredditNavbarAddShortcut": {
         "message": "+dodaj skrót sekcji multireddit",
+        "description": ""
+    },
+    "toggleCommentsLeftEdgeCollapsedColorTitle": {
+        "message": "Toggle Comments Left Edge Collapsed Color",
+        "description": ""
+    },
+    "scrollOnCollapseDesc": {
+        "message": "Przewiń do następnego komentarza, kiedy poprzedni jest zwinięty.",
         "description": ""
     },
     "commandLineName": {
@@ -1257,6 +1325,10 @@
     },
     "keyboardNavImageMoveLeftTitle": {
         "message": "Przesuń obraz w lewo",
+        "description": ""
+    },
+    "penaltyBoxFeaturesAddRowText": {
+        "message": "manualnie dodaj funkcję",
         "description": ""
     },
     "dashboardDesc": {
@@ -1331,6 +1403,10 @@
         "message": "Zobacz link i komentarze w nowych kartach.",
         "description": ""
     },
+    "onboardingUpdateNotificationName": {
+        "message": "Update Notification",
+        "description": ""
+    },
     "multiredditNavbarFadeDelayDesc": {
         "message": "Opóźnienie, w milisekundach (1s = 1000ms), po jakim schowa się ramka informacyjna. Domyślnie: 200.",
         "description": ""
@@ -1347,12 +1423,20 @@
         "message": "przyklejone",
         "description": ""
     },
+    "commentToolsWikiAutocompleteDesc": {
+        "message": "Pokaż narzędzie autouzupełniania nazw wiki podczas pisania postów, komentarzy i odpowiedzi.",
+        "description": ""
+    },
     "keyboardNavImageSizeDownTitle": {
         "message": "Pomniejsz obraz",
         "description": ""
     },
     "betteRedditRestoreSavedTabDesc": {
         "message": "Karta \"zapisane\" jest teraz umieszczona na pasku bocznym multiredditów. Ta opcja przywróci link \"zapisane\" w nagłówku (obok kart \"gorące\", \"nowe\" itd.).",
+        "description": ""
+    },
+    "toggleCommentsLeftEdgeColorDesc": {
+        "message": "Domyślny kolor belki.",
         "description": ""
     },
     "toggleOff": {
@@ -1397,6 +1481,10 @@
     },
     "filteRedditExcludeModqueueDesc": {
         "message": "Nie filtruj niczego na stronie kolejki moderacji (kolejka moderacji, raporty, spam itd.).",
+        "description": ""
+    },
+    "filteRedditEmptyNotificationHeader": {
+        "message": "Wszystkie posty są odfiltrowane.",
         "description": ""
     },
     "subredditInfoSubscribers": {
@@ -1447,6 +1535,10 @@
         "message": "Zapisz ",
         "description": ""
     },
+    "penaltyBoxDesc": {
+        "message": "Automatically delay or disable RES features which go unused.",
+        "description": ""
+    },
     "searchHelperSearchByFlairDesc": {
         "message": "Po kliknięciu na znaczek postu, przeszukaj jego subreddit pod kątem tego znaczka.\nMoże nie działac na niektórych subredditach które chowają prawdziwy znaczek i dodają pseudo-znaczek za pomocą CSS (jedyna możliwość obejścia problemu to wyłączenie stylu subreddita na takim subreddicie).",
         "description": ""
@@ -1489,6 +1581,10 @@
     },
     "aboutOptionsBugs": {
         "message": "Jeśli coś działa nie tak, odwiedź /r/RESissues by uzyskać pomoc.",
+        "description": ""
+    },
+    "nightModeAutomaticNightModeNone": {
+        "message": "Wyłączony",
         "description": ""
     },
     "keyboardNavMoveUpDesc": {
@@ -1536,7 +1632,7 @@
         "description": ""
     },
     "necLoadChildCommentsTitle": {
-        "message": "Load Child Comments",
+        "message": "Wczytaj podrzędne komentarze",
         "description": ""
     },
     "showParentName": {
@@ -1555,6 +1651,10 @@
         "message": "Idź do rodzica",
         "description": ""
     },
+    "toggleCommentsOnClickLeftEdgeTitle": {
+        "message": "Toggle Comments On Click Left Edge",
+        "description": ""
+    },
     "betteRedditShowTimestampCommentsTitle": {
         "message": "Pokaż znacznik czasowy komentarzy",
         "description": ""
@@ -1565,6 +1665,10 @@
     },
     "spoilerTagsDesc": {
         "message": "Chowa spojlery na stronach profili użytkowników.",
+        "description": ""
+    },
+    "onboardingUpdateNotifictionNotification": {
+        "message": "Show pop-up notification",
         "description": ""
     },
     "keyboardNavCommentsLinkToggleExpandoDesc": {
@@ -1601,6 +1705,14 @@
     },
     "commentDepthDefaultCommentDepthTitle": {
         "message": "Domyślna głębokość wątków komentarzy",
+        "description": ""
+    },
+    "penaltyBoxFeaturesTitle": {
+        "message": "Funkcje",
+        "description": ""
+    },
+    "hideChildCommentsNestedDesc": {
+        "message": "Dodaje przycisk \"Ukryj podrzędne komentarze\" do wszystkich komentarzy z odpowiedziami, a nie tylko do komentarzy pierwszego poziomu.",
         "description": ""
     },
     "newCommentCountSubscriptionLengthTitle": {
@@ -1663,6 +1775,10 @@
         "message": "Kolor",
         "description": ""
     },
+    "hideChildCommentsHideNestedTitle": {
+        "message": "Ukryj zagnieżdżone",
+        "description": ""
+    },
     "newCommentCountCleanCommentsTitle": {
         "message": "Wyczyść komentarze",
         "description": ""
@@ -1702,6 +1818,10 @@
     "subredditInfoAddRemoveShortcut": {
         "message": "skrót",
         "description": "as in '+shortcut' or '-shortcut'"
+    },
+    "penaltyBoxName": {
+        "message": "RES Feature Throttle",
+        "description": ""
     },
     "userInfoSendMessage": {
         "message": "wyślij wiadomość",
@@ -1744,7 +1864,7 @@
         "description": ""
     },
     "filteRedditUseRedditFiltersDesc": {
-        "message": "Overwrite your native /r/all filters with the 100 most popular filtered subreddits.",
+        "message": "Nadpisz swoje natywne filtry /r/all pierwszymi 100 najpopularniejszymi filtrowanymi subredditami.",
         "description": ""
     },
     "searchHelperName": {
@@ -1787,6 +1907,10 @@
         "message": "Idź na samą górę",
         "description": ""
     },
+    "nightModeAutomaticNightModeUser": {
+        "message": "Godziny zdefiniowane przez użytkownika",
+        "description": ""
+    },
     "userTaggerIgnored": {
         "message": "Ignotowani",
         "description": ""
@@ -1797,6 +1921,10 @@
     },
     "keyboardNavFollowLinkNewTabTitle": {
         "message": "Otwórz link w nowej karcie",
+        "description": ""
+    },
+    "keyboardNavAmbiguousShortcutPromptFollowUp": {
+        "message": "Możesz to zmienić później w ustawieniach $1.",
         "description": ""
     },
     "customTogglesToggleTitle": {
@@ -1819,6 +1947,10 @@
         "message": "Naciśnięcie Ctrl+Enter/Cmd+Enter wyśle twój post.",
         "description": ""
     },
+    "optionKey": {
+        "message": "ID opcji",
+        "description": ""
+    },
     "stylesheetDesc": {
         "message": "Załaduj dodatkowe style lub własne snippety CSS.",
         "description": ""
@@ -1831,12 +1963,16 @@
         "message": "Przestań ignorować ",
         "description": ""
     },
+    "toggleCommentsLeftEdgeColorTitle": {
+        "message": "Przełącz kolor komentarzy z lewej strony.",
+        "description": ""
+    },
     "commentToolsMacrosTitle": {
         "message": "Makra",
         "description": ""
     },
     "nightModeAutomaticNightModeDesc": {
-        "message": "Włącz automatyczny tryb nocny - tryb nocny włączy się i wyłączy o godzinach skonfigurowanych poniżej.\n\nDla godzin poniżej używany jest czas 24-godzinny.\n\nBy tymczasowo nadpisać ustawienie automatycznego trybu nocnego, kliknij przełącznik w menu oznaczonym zębatką.\nSkonfiguruj jak długo ma trwać nadpisanie w opcji poniżej.",
+        "message": "Włącz automatyczny tryb nocny.\n\nW trybie automatycznym wymagane jest udzielenie zgody na korzystanie z lokalizacji. Lokalizacja będzie użyta wyłącznie do wyliczenia godziny wschodu i zachodu słońca.\n\nW trybie godzin zdefiniowanych ręcznie tryb nocny włączy się i wyłączy o godzinach skonfigurowanych poniżej.\n\nDla godzin poniżej używany jest czas 24-godzinny.\n\nBy tymczasowo nadpisać ustawienie automatycznego trybu nocnego, kliknij przełącznik w menu oznaczonym zębatką.\nSkonfiguruj jak długo ma trwać nadpisanie w opcji poniżej.",
         "description": ""
     },
     "subredditInfoFilterFromAllAndDomain": {
@@ -1845,6 +1981,10 @@
     },
     "searchCopyResultForComment": {
         "message": "skopiuj do komentarza",
+        "description": ""
+    },
+    "moduleID": {
+        "message": "ID modułu",
         "description": ""
     },
     "orangeredShowUnreadCountInTitleDesc": {
@@ -1879,6 +2019,10 @@
         "message": "Błędy",
         "description": ""
     },
+    "nerShowPauseButtonTitle": {
+        "message": "Pokaż przycisk pauzy",
+        "description": ""
+    },
     "singleClickName": {
         "message": "Otwieranie jednym kliknięciem",
         "description": ""
@@ -1903,6 +2047,10 @@
         "message": "Pokaż licznik nieprzeczytanych na ikonie",
         "description": ""
     },
+    "penaltyBoxSuspendFeaturesDesc": {
+        "message": "Turn off features which exceed the maximum penalty.",
+        "description": ""
+    },
     "voteEnhancementsVotes": {
         "message": "głosów",
         "description": ""
@@ -1921,6 +2069,10 @@
     },
     "commentStyleName": {
         "message": "Style komentarzy",
+        "description": ""
+    },
+    "onboardingBetaUpdateNotificationDescription": {
+        "message": "Notification method for beta updates.",
         "description": ""
     },
     "keyboardNavFrontPageTitle": {
@@ -2127,6 +2279,10 @@
         "message": "panel",
         "description": "as in '+dashboard' or '-dashboard'"
     },
+    "commentToolsWikiAutocompleteTitle": {
+        "message": "Autouzupełnianie nazw wiki",
+        "description": ""
+    },
     "commentToolsUserAutoCompleteTitle": {
         "message": "Autouzupełnianie nazw użytkowników",
         "description": ""
@@ -2139,12 +2295,24 @@
         "message": "Kod",
         "description": ""
     },
+    "scrollOnCollapseTitle": {
+        "message": "Przewiń przy zwinięciu.",
+        "description": ""
+    },
     "nerReversePauseIconDesc": {
         "message": "Pokazuje ikonę pauzy kiedy automatyczne wczytywanie jest wyłączone i ikonę odtwarzania gdy jest włączone.",
         "description": ""
     },
     "userTaggerUsername": {
         "message": "Nazwa użytkownika",
+        "description": ""
+    },
+    "onboardingPatchUpdateNotificationName": {
+        "message": "Patch Update Notification",
+        "description": ""
+    },
+    "keyboardNavSlashAllTitle": {
+        "message": "/r/all",
         "description": ""
     },
     "keyboardNavImageMoveUpDesc": {
@@ -2165,6 +2333,10 @@
     },
     "userHighlightName": {
         "message": "Wyróżnianie użytkowników",
+        "description": ""
+    },
+    "newCommentCountNotifyEditedPostsTitle": {
+        "message": "Powiadamiaj o edytowanych postach",
         "description": ""
     },
     "logoLinkCurrent": {
@@ -2311,6 +2483,14 @@
         "message": "Podstawowe",
         "description": ""
     },
+    "penaltyBoxFeaturesPenalty": {
+        "message": "kara",
+        "description": "How heavily the feature is penalized (0-100)"
+    },
+    "penaltyBoxFeaturesDesc": {
+        "message": "Śledź użytkowanie różnych funkcji.",
+        "description": ""
+    },
     "commentDepthMinimumComments": {
         "message": "minimum komentarzy",
         "description": ""
@@ -2339,6 +2519,10 @@
         "message": "Liczba dni, po których wygasa subskrypcja wątków komentarzy.",
         "description": ""
     },
+    "keyboardNavAmbiguousShortcutPrompt": {
+        "message": "RES' $1 isn't sure what to do when you press the keyboard shortcut $2. $3 What should pressing $4 do?",
+        "description": ""
+    },
     "styleTweaksToggleSubredditStyle": {
         "message": "przełącz styl subreddita",
         "description": ""
@@ -2349,6 +2533,10 @@
     },
     "newCommentCountName": {
         "message": "Licznik nowych komentarzy",
+        "description": ""
+    },
+    "keyboardNavSlashAllDesc": {
+        "message": "Idź do /r/all.",
         "description": ""
     },
     "keyboardNavShowParentsTitle": {
@@ -2420,7 +2608,7 @@
         "description": ""
     },
     "userTaggerShowIgnoredDesc": {
-        "message": "Dodaj link służący do pokazania ignorowanego linka lub komentarza. Opcja hardIgnore nadpisuje tę opcję.",
+        "message": "Dodaj link służący do pokazania ignorowanego linka lub komentarza.",
         "description": ""
     },
     "commentToolsItalicKeyTitle": {
@@ -2473,6 +2661,10 @@
     },
     "betteRedditPinHeaderDesc": {
         "message": "Przypnij pasek subredditów, menu użytkownika lub nagłówek strony do górnej krawędzi ekranu, by pozostał w miejscu podczas przewijania strony.",
+        "description": ""
+    },
+    "onboardingUpdateNotifictionReleaseNotes": {
+        "message": "Show release notes in background tab",
         "description": ""
     },
     "betteRedditShowTimestampSidebarDesc": {
@@ -2535,6 +2727,10 @@
         "message": "Odfiltruj treści 18+, lub linki poprzez słowa kluczowe, domenę lub subreddit (dla /r/all lub /domena/*)",
         "description": ""
     },
+    "RESTipsMenuItemDesc": {
+        "message": "Dodaj element do menu rozwijanego RES aby wyświetlać wskazówki.",
+        "description": ""
+    },
     "commentToolsFormattingToolButtonsTitle": {
         "message": "Przyciski narzędzi formatowania",
         "description": ""
@@ -2581,6 +2777,14 @@
     },
     "nerHideDupesDontHide": {
         "message": "Nie chowaj",
+        "description": ""
+    },
+    "newCommentCountNotifyEditedPostsDesc": {
+        "message": "Powiadom mnie, kiedy zasubskrybowany post zostanie edytowany.",
+        "description": ""
+    },
+    "penaltyBoxSuspendFeaturesNotificationMessage": {
+        "message": "Funkcja $1 zostanie wyłączona z powodu nie korzystania z niej. Możesz włączyć ją ponownie później w Konsoli ustawień RES.",
         "description": ""
     },
     "userTaggerYourVotesFor": {
@@ -2683,8 +2887,20 @@
         "message": "Zapisz aktualny post do swojego konta na reddicie. Ta opcja jest dostępna z każdego miejsca w którym się zalogujesz, ale nie zachowuje oryginalnej treści jeśli zostanie edytowana lub usunięta.",
         "description": ""
     },
+    "hideChildCommentsNestedTitle": {
+        "message": "Zagnieżdżone",
+        "description": ""
+    },
     "commentPreviewEnableBigEditorTitle": {
         "message": "Włącz Wielki edytor",
+        "description": ""
+    },
+    "penaltyBoxSuspendFeaturesNotificationHeader": {
+        "message": "Zawieszona funkcja",
+        "description": ""
+    },
+    "onboardingBetaUpdateNotificationName": {
+        "message": "Beta Update Notification",
         "description": ""
     },
     "announcementsDesc": {
@@ -2787,6 +3003,10 @@
         "message": "Domyślne opóźnienie pomiędzy najechaniem myszą o otwarciem pop-upa.",
         "description": ""
     },
+    "toggleCommentsLeftEdgeCollapsedColorDesc": {
+        "message": "Kolor paska podczas schowania.",
+        "description": ""
+    },
     "announcementsName": {
         "message": "Ogłoszenia RES",
         "description": ""
@@ -2852,7 +3072,11 @@
         "description": ""
     },
     "newCommentCountMonitorPostsVisitedIncognitoDesc": {
-        "message": "Monitoruj liczbę komentarzy w postach odwiedzonych w czasie korzystania z trybu incognito (trybu prywatnego).",
+        "message": "Monitoruj liczbę komentarzy i daty edycji odwiedzonych postów w czasie korzystania z trybu incognito (trybu prywatnego).",
+        "description": ""
+    },
+    "filteRedditEmptyNotificationInfo": {
+        "message": "RES noticed that every post is hidden. Click on the button below to see why posts are filtered out.",
         "description": ""
     },
     "backupAndRestoreRestoreTitle": {
@@ -2891,6 +3115,10 @@
         "message": "Zobacz pełny kontekst",
         "description": ""
     },
+    "hideCommentsOnHeaderDoubleClickDesc": {
+        "message": "Przełącza schowanie komentarza, kiedy jego nagłówek zostanie podwójnie kliknięty.",
+        "description": ""
+    },
     "aboutOptionsPrivacyTitle": {
         "message": "Prywatność",
         "description": ""
@@ -2909,6 +3137,10 @@
     },
     "hideChildCommentsAutomaticTitle": {
         "message": "Automatycznie",
+        "description": ""
+    },
+    "onboardingUpdateNotificationDescription": {
+        "message": "Notification method for major/minor updates.",
         "description": ""
     },
     "hoverFadeDelayDesc": {
@@ -2939,6 +3171,10 @@
         "message": "Po przełączeniu konta, automatycznie przeładuj inne karty.",
         "description": ""
     },
+    "onboardingPatchUpdateNotificationDescription": {
+        "message": "Notification method for patch updates.",
+        "description": ""
+    },
     "hoverInstancesEnabled": {
         "message": "włączony",
         "description": ""
@@ -2959,6 +3195,10 @@
         "message": "Wyjdź z trybu \"Bez partycypacji\" wychodząc ze strony z włączonym tym trybem.",
         "description": ""
     },
+    "penaltyBoxSuspendFeaturesUndoButton": {
+        "message": "Włącz tę funkcję ponownie",
+        "description": ""
+    },
     "userHighlightDesc": {
         "message": "Wyróżnia w wątkach komentarze pewnych użytkowników: OP, administratorów, znajomych, moderatorów. Stworzone przez MrDerk.",
         "description": ""
@@ -2975,12 +3215,20 @@
         "message": "$1 znajomych",
         "description": ""
     },
+    "penaltyBoxFeaturesModuleID": {
+        "message": "ID modułu",
+        "description": ""
+    },
     "nightModeNightModeOverrideHoursDesc": {
         "message": "Czas trwania (w godzinach) nadpisania ustawienia automatycznego trybu nocnego. Domyślnie: 8 (godzin).\nMożesz używać wartości dziesiętnych, np. 0.1 godzin (czyli 6 minut).",
         "description": ""
     },
     "presetsNoPopupsDesc": {
         "message": "Wyłącz powiadomienia i wyskakujące pop-upy.",
+        "description": ""
+    },
+    "nerShowPauseButtonDesc": {
+        "message": "Pokaż przycisk odtwórz/pauza dla automatycznego wczytywania w górnym prawym rogu.",
         "description": ""
     },
     "messageMenuName": {
@@ -3004,7 +3252,7 @@
         "description": ""
     },
     "necDescription": {
-        "message": "Keep ultra-long comment pages flowing.",
+        "message": "Płynnie przeglądaj ultra-długie strony z komentarzami.",
         "description": ""
     },
     "troubleshooterCachesCleared": {
@@ -3043,6 +3291,10 @@
         "message": "Podgląd w pasku bocznym",
         "description": ""
     },
+    "toggleCommentsOnClickLeftEdgeDesc": {
+        "message": "Tworzy pasek po lewej stronie każdego komentarza. Pasek może zostać kliknięty, by schować komentarz.",
+        "description": ""
+    },
     "keyboardNavFollowSubredditNewTabTitle": {
         "message": "Otwórz subreddit w nowej karcie",
         "description": ""
@@ -3067,6 +3319,10 @@
         "message": "Ctrl+Enter wysyła komentarze",
         "description": ""
     },
+    "toggleCommentsLeftEdgeHideButtonTitle": {
+        "message": "Toggle Comments Left Edge Hide Button",
+        "description": ""
+    },
     "commentToolsCtrolEnterSubmitsPostsTitle": {
         "message": "Ctrl+Enter wysyła posty",
         "description": ""
@@ -3077,6 +3333,10 @@
     },
     "multiredditNavbarLabel": {
         "message": "etykieta",
+        "description": ""
+    },
+    "penaltyBoxSuspendFeaturesRevertNotificationMessage": {
+        "message": "Funkcja $1 została włączona ponownie. Ta funkcja nie zostanie ponownie wyłączona automatycznie.",
         "description": ""
     },
     "messageMenuHoverDelayTitle": {
@@ -3129,6 +3389,10 @@
     },
     "userInfoLinks": {
         "message": "Linki",
+        "description": ""
+    },
+    "toggleCommentsLeftEdgeHideButtonDesc": {
+        "message": "Chowa domyślny przycisk ([-]) służący do chowania komentarzy.",
         "description": ""
     },
     "keyboardNavMoveTopDesc": {
@@ -3223,8 +3487,16 @@
         "message": "Reddit Enhancement Suite",
         "description": ""
     },
+    "toggleCommentsLeftEdgeWidthDesc": {
+        "message": "Szerokość paska. Domyślnie: 50.",
+        "description": ""
+    },
     "filteRedditDomainsTitle": {
         "message": "Domeny",
+        "description": ""
+    },
+    "penaltyBoxSuspendFeaturesRevertNotificationHeader": {
+        "message": "Pardoned Feature",
         "description": ""
     },
     "orangeredHideModMailTitle": {
